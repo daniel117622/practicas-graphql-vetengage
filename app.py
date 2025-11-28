@@ -3,8 +3,11 @@ from graphene import Schema
 from duckdb import DuckDBPyConnection
 from db_access.migrations import Migrations
 
-from api.budget import *
-from api.wages import *
+from api.budget import BudgetQuery , BudgetMutation
+from api.wages import WagesQuery , WagesMutation
+
+import logging
+logging.basicConfig(level=logging.INFO)
 
 class Query(BudgetQuery, WagesQuery):
     pass

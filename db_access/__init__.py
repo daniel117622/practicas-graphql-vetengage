@@ -1,0 +1,2 @@
+from .migrations import Migrations
+

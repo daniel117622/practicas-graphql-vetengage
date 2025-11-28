@@ -2,17 +2,18 @@ import json
 import duckdb
 
 class Migrations:
+    connection = None
     def __init__(self, db_path=":memory:"):
-        self.con = duckdb.connect(db_path)
+        Migrations.connection = duckdb.connect(db_path)
 
     def create_tables(self):
-        self.con.execute("""
+        Migrations.connection.execute("""
             CREATE TABLE IF NOT EXISTS CategoriaLaboral (
                 category_id INTEGER PRIMARY KEY,
                 category_name TEXT
             );
         """)
-        self.con.execute("""
+        Migrations.connection.execute("""
             CREATE TABLE IF NOT EXISTS EmpleadoEnCategoria (
                 position_id INTEGER PRIMARY KEY,
                 position TEXT,
@@ -22,13 +23,13 @@ class Migrations:
                 category_id INTEGER REFERENCES CategoriaLaboral(category_id)
             );
         """)
-        self.con.execute("""
+        Migrations.connection.execute("""
             CREATE TABLE IF NOT EXISTS CategoriaEgreso (
                 category_id INTEGER PRIMARY KEY,
                 category_name TEXT
             );
         """)
-        self.con.execute("""
+        Migrations.connection.execute("""
             CREATE TABLE IF NOT EXISTS Egresos (
                 codigo VARCHAR PRIMARY KEY,
                 descripcion TEXT,
@@ -40,7 +41,7 @@ class Migrations:
         """)
 
     def get_data_access(self):
-        return self.con
+        return Migrations.connection
 
     def load_egresos_from_json(self, json_path="data/egresos_cajeme_2025.json"):
         with open(json_path, "r", encoding="utf-8") as fp:
@@ -48,12 +49,12 @@ class Migrations:
         for cat_key, items in egresos.items():
             cat_id = int(cat_key.split(":")[0].strip())
             cat_name = cat_key.split(":")[1].strip()
-            self.con.execute(
+            Migrations.connection.execute(
                 "INSERT OR IGNORE INTO CategoriaEgreso (category_id, category_name) VALUES (?, ?)",
                 [cat_id, cat_name]
             )
             for i in items:
-                self.con.execute("""
+                Migrations.connection.execute("""
                     INSERT OR REPLACE INTO egresos
                     (codigo, descripcion, importe, import_float, importe_formatted, category_id)
                     VALUES (?, ?, ?, ?, ?, ?)
@@ -73,12 +74,12 @@ class Migrations:
         for cat_key, items in sueldos.items():
             cat_id = int(cat_key.split(":")[0].strip())
             cat_name = cat_key.split(":")[1].strip()
-            self.con.execute(
+            Migrations.connection.execute(
                 "INSERT OR IGNORE INTO CategoriaLaboral (category_id, category_name) VALUES (?, ?)",
                 [cat_id, cat_name]
             )
             for i in items:
-                self.con.execute("""
+                Migrations.connection.execute("""
                     INSERT OR REPLACE INTO EmpleadoEnCategoria
                     (position_id, position, lower_wage, upper_wage, employee_count, category_id)
                     VALUES (?, ?, ?, ?, ?, ?)
@@ -92,24 +93,19 @@ class Migrations:
                 ])
 
 if __name__ == '__main__':
-    from pprint import pprint
-    mig = Migrations("duck.db")
+    mig = Migrations("egresos_sueldos")
     mig.create_tables()
     mig.load_egresos_from_json("data/egresos_cajeme_2025.json")
     mig.load_sueldos_from_json("data/sueldos_grouped.json")
     con = mig.get_data_access()
 
-    print("SHOW TABLES")
-    pprint(con.execute("SHOW TABLES").fetchall())
+    def print_table_example(con, table):
+        result = con.execute(f"SELECT * FROM {table} LIMIT 1")
+        print(table, [desc[0] for desc in result.description])
+        print(result.fetchone())
+    
 
-    print("CategoriaLaboral")
-    pprint(con.execute("SELECT * FROM CategoriaLaboral LIMIT 5").fetchall())
-
-    print("EmpleadoEnCategoria")
-    pprint(con.execute("SELECT * FROM EmpleadoEnCategoria LIMIT 5").fetchall())
-
-    print("CategoriaEgreso")
-    pprint(con.execute("SELECT * FROM CategoriaEgreso LIMIT 5").fetchall())
-
-    print("Egreso")
-    pprint(con.execute("SELECT * FROM Egresos LIMIT 5").fetchall())
+    print_table_example(con, "CategoriaLaboral")
+    print_table_example(con, "EmpleadoEnCategoria")
+    print_table_example(con, "CategoriaEgreso")
+    print_table_example(con, "Egresos")

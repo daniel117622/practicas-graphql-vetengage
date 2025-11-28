@@ -1,0 +1,1271 @@
+{
+  "1000 : SERVICIOS PERSONALES. : Importe: 880211599.3376 [$48,046,484.68 USD]": [],
+  "1100 : REMUNERACIONES AL PERSONAL DE CARÁCTER PERMANENTE. : Importe: 363466116.6696 [$19,839,853.53 USD]": [
+    {
+      "codigo": "11101",
+      "descripcion": "DIETAS.",
+      "importe": "6,326,484.00",
+      "import_float": 345332.1,
+      "importe_formatted": "$345,332.10"
+    },
+    {
+      "codigo": "11301",
+      "descripcion": "SUELDOS.",
+      "importe": "337,590,785.64",
+      "import_float": 18427444.63,
+      "importe_formatted": "$18,427,444.63"
+    },
+    {
+      "codigo": "11305",
+      "descripcion": "COMPENSACIONES POR RIESGOS PROFESIONALES.",
+      "importe": "19,548,846.96",
+      "import_float": 1067076.8,
+      "importe_formatted": "$1,067,076.80"
+    }
+  ],
+  "1200 : REMUNERACIONES AL PERSONAL DE CARÁCTER TRANSITORIO. : Importe: 76690723.61840001 [$4,186,174.87 USD]": [
+    {
+      "codigo": "12101",
+      "descripcion": "HONORARIOS.",
+      "importe": "2,704,884.00",
+      "import_float": 147646.51,
+      "importe_formatted": "$147,646.51"
+    },
+    {
+      "codigo": "12201",
+      "descripcion": "SUELDOS BASE AL PERSONAL EVENTUAL.",
+      "importe": "71,687,839.68",
+      "import_float": 3913091.69,
+      "importe_formatted": "$3,913,091.69"
+    },
+    {
+      "codigo": "12301",
+      "descripcion": "RETRIBUCIONES POR SERVICIOS DE CARÁCTER SOCIAL.",
+      "importe": "2,298,000.00",
+      "import_float": 125436.68,
+      "importe_formatted": "$125,436.68"
+    }
+  ],
+  "1300 : REMUNERACIONES ADICIONALES Y ESPECIALES. : Importe: 151710101.7288 [$8,281,119.09 USD]": [
+    {
+      "codigo": "13101",
+      "descripcion": "PRIMAS Y ACREDITACIONES POR AÑOS DE SERVICIO EFECTIVOS PRESTADOS AL PERSONAL.",
+      "importe": "40,828,005.84",
+      "import_float": 2228602.94,
+      "importe_formatted": "$2,228,602.94"
+    },
+    {
+      "codigo": "13201",
+      "descripcion": "PRIMA VACACIONAL.",
+      "importe": "8,589,559.62",
+      "import_float": 468862.42,
+      "importe_formatted": "$468,862.42"
+    },
+    {
+      "codigo": "13202",
+      "descripcion": "GRATIFICACIÓN POR FIN DE AÑO.",
+      "importe": "59,572,515.28",
+      "import_float": 3251774.85,
+      "importe_formatted": "$3,251,774.85"
+    },
+    {
+      "codigo": "13203",
+      "descripcion": "PRIMA DOMINICAL.",
+      "importe": "521,385.48",
+      "import_float": 28459.91,
+      "importe_formatted": "$28,459.91"
+    },
+    {
+      "codigo": "13301",
+      "descripcion": "REMUNERACIONES POR HORAS EXTRAORDINARIAS.",
+      "importe": "9,450,515.76",
+      "import_float": 515857.85,
+      "importe_formatted": "$515,857.85"
+    },
+    {
+      "codigo": "13403",
+      "descripcion": "ESTÍMULOS AL PERSONAL DE CONFIANZA.",
+      "importe": "8,507,946.00",
+      "import_float": 464407.53,
+      "importe_formatted": "$464,407.53"
+    },
+    {
+      "codigo": "13405",
+      "descripcion": "COMPENSACIONES ADICIONALES POR SERVICIOS ESPECIALES AL PERSONAL DE CARÁCTER PERMANENTE.",
+      "importe": "14,240,522.78",
+      "import_float": 777321.11,
+      "importe_formatted": "$777,321.11"
+    }
+  ],
+  "1400 : SEGURIDAD SOCIAL. : Importe: 163076336.2768 [$8,901,546.74 USD]": [
+    {
+      "codigo": "14101",
+      "descripcion": "CUOTAS POR SERVICIO MÉDICO DEL ISSSTESON.",
+      "importe": "134,494,666.28",
+      "import_float": 7341411.91,
+      "importe_formatted": "$7,341,411.91"
+    },
+    {
+      "codigo": "14106",
+      "descripcion": "OTRAS PRESTACIONES DE SEGURIDAD SOCIAL.",
+      "importe": "16,366,670.04",
+      "import_float": 893377.19,
+      "importe_formatted": "$893,377.19"
+    },
+    {
+      "codigo": "14202",
+      "descripcion": "FONDO DE APOYO PARA VIVIENDA.",
+      "importe": "1,959,999.96",
+      "import_float": 106986.9,
+      "importe_formatted": "$106,986.90"
+    },
+    {
+      "codigo": "14404",
+      "descripcion": "OTROS SEGUROS DE CARACTER LABORAL O ECONÓMICO.",
+      "importe": "10,250,000.04",
+      "import_float": 559497.82,
+      "importe_formatted": "$559,497.82"
+    }
+  ],
+  "1500 : OTRAS PRESTACIONES SOCIALES Y ECONÓMICAS. : Importe: 124063829.95840001 [$6,772,043.12 USD]": [
+    {
+      "codigo": "15201",
+      "descripcion": "INDEMNIZACIONES AL PERSONAL.",
+      "importe": "500,000.04",
+      "import_float": 27292.58,
+      "importe_formatted": "$27,292.58"
+    },
+    {
+      "codigo": "15202",
+      "descripcion": "INDEMNIZACIONES POR ACCIDENTE DE TRABAJO.",
+      "importe": "7,339,169.04",
+      "import_float": 400609.66,
+      "importe_formatted": "$400,609.66"
+    },
+    {
+      "codigo": "15401",
+      "descripcion": "OTRAS PRESTACIONES POR CONDICIONES GENERALES DE TRABAJO",
+      "importe": "15,188,735.25",
+      "import_float": 829079.44,
+      "importe_formatted": "$829,079.44"
+    },
+    {
+      "codigo": "15419",
+      "descripcion": "AYUDA PARA SERVICIO DE TRANSPORTE",
+      "importe": "11,514,782.88",
+      "import_float": 628536.18,
+      "importe_formatted": "$628,536.18"
+    },
+    {
+      "codigo": "15901",
+      "descripcion": "OTRAS PRESTACIONES.",
+      "importe": "11,834,354.04",
+      "import_float": 645980.02,
+      "importe_formatted": "$645,980.02"
+    },
+    {
+      "codigo": "15902",
+      "descripcion": "APORTACIONES DE FONDO DE RETIRO AYUNTAMIENTO",
+      "importe": "14,043,924.00",
+      "import_float": 766589.74,
+      "importe_formatted": "$766,589.74"
+    },
+    {
+      "codigo": "15903",
+      "descripcion": "COMPENSACION ISR",
+      "importe": "63,644,864.71",
+      "import_float": 3474064.67,
+      "importe_formatted": "$3,474,064.67"
+    }
+  ],
+  "1600 : PREVISIONES. : Importe: 981090.96 [$53,553.00 USD]": [
+    {
+      "codigo": "16101",
+      "descripcion": "PREVISIÓN PARA INCREMENTO DE SUELDOS.",
+      "importe": "981,090.96",
+      "import_float": 53553.0,
+      "importe_formatted": "$53,553.00"
+    }
+  ],
+  "1700 : PAGOS DE ESTÍMULOS A SERVIDORES PUBLICOS. : Importe: 224400.0312 [$12,248.91 USD]": [
+    {
+      "codigo": "17101",
+      "descripcion": "ESTIMULOS POR PUNTUALIDAD Y ASISTENCIA.",
+      "importe": "224,400.00",
+      "import_float": 12248.91,
+      "importe_formatted": "$12,248.91"
+    }
+  ],
+  "2000 : MATERIALES Y SUMINISTROS. : Importe: 199715667.04720002 [$10,901,510.21 USD]": [],
+  "2100 : MATERIALES DE ADMINISTRACIÓN, EMISION DE DOCUMENTOS Y ARTICULOS OFICIALES. : Importe: 4781745.5192 [$261,012.31 USD]": [
+    {
+      "codigo": "21101",
+      "descripcion": "MATERIALES, UTILES Y EQUIPOS MENORES DE OFICINA.",
+      "importe": "2,508,743.80",
+      "import_float": 136940.16,
+      "importe_formatted": "$136,940.16"
+    },
+    {
+      "codigo": "21201",
+      "descripcion": "MATERIALES Y ÚTILES DE IMPRESIÓN Y REPRODUCCIÓN.",
+      "importe": "521,819.88",
+      "import_float": 28483.62,
+      "importe_formatted": "$28,483.62"
+    },
+    {
+      "codigo": "21401",
+      "descripcion": "MATERIALES Y ÚTILES PARA EL PROCESAMIENTO DE EQUIPO Y BIENES INFORMATICOS.",
+      "importe": "21,091.00",
+      "import_float": 1151.26,
+      "importe_formatted": "$1,151.26"
+    },
+    {
+      "codigo": "21501",
+      "descripcion": "MATERIAL PARA INFORMACIÓN.",
+      "importe": "10,200.00",
+      "import_float": 556.77,
+      "importe_formatted": "$556.77"
+    },
+    {
+      "codigo": "21601",
+      "descripcion": "MATERIAL DE LIMPIEZA.",
+      "importe": "1,611,046.88",
+      "import_float": 87939.24,
+      "importe_formatted": "$87,939.24"
+    },
+    {
+      "codigo": "21701",
+      "descripcion": "MATERIALES EDUCATIVOS.",
+      "importe": "73,344.00",
+      "import_float": 4003.49,
+      "importe_formatted": "$4,003.49"
+    },
+    {
+      "codigo": "21702",
+      "descripcion": "MATERIALES Y SUMINISTROS PARA PLANTELES EDUCATIVOS.",
+      "importe": "35,000.00",
+      "import_float": 1910.48,
+      "importe_formatted": "$1,910.48"
+    },
+    {
+      "codigo": "21801",
+      "descripcion": "PLACAS, ENGOMADOS, CALCOMANIAS Y HOLOGRAMAS.",
+      "importe": "500.00",
+      "import_float": 27.29,
+      "importe_formatted": "$27.29"
+    }
+  ],
+  "2200 : ALIMENTOS Y UTENSILIOS. : Importe: 3382195.8976 [$184,617.68 USD]": [
+    {
+      "codigo": "22101",
+      "descripcion": "PRODUCTOS ALIMENTICIOS PARA EL PERSONAL EN LAS INSTALACIONES.",
+      "importe": "1,248,970.18",
+      "import_float": 68175.23,
+      "importe_formatted": "$68,175.23"
+    },
+    {
+      "codigo": "22102",
+      "descripcion": "ALIMENTACION DE PERSONAS EN PROCESOS DE READAPTACION SOCIAL.",
+      "importe": "168,000.00",
+      "import_float": 9170.31,
+      "importe_formatted": "$9,170.31"
+    },
+    {
+      "codigo": "22106",
+      "descripcion": "ADQUISICIÓN DE AGUA POTABLE.",
+      "importe": "1,812,535.79",
+      "import_float": 98937.54,
+      "importe_formatted": "$98,937.54"
+    },
+    {
+      "codigo": "22108",
+      "descripcion": "PRODUCTOS ALIMENTICIOS PARA EL PERSONAL QUE PARTICIPE EN PROGRAMAS DE SEGURIDAD PÚBLICA.",
+      "importe": "4,000.00",
+      "import_float": 218.34,
+      "importe_formatted": "$218.34"
+    },
+    {
+      "codigo": "22201",
+      "descripcion": "ALIMENTACIÓN DE ANIMALES.",
+      "importe": "39,000.00",
+      "import_float": 2128.82,
+      "importe_formatted": "$2,128.82"
+    },
+    {
+      "codigo": "22301",
+      "descripcion": "UTENSILIOS PARA EL SERVICIO DE ALIMENTACIÓN.",
+      "importe": "108,689.96",
+      "import_float": 5932.86,
+      "importe_formatted": "$5,932.86"
+    }
+  ],
+  "2300 : MATERIAS PRIMAS Y MATERIALES DE PRODUCCIÓN Y COMERCIALIZACIÓN : Importe: 3000.0832 [$163.76 USD]": [
+    {
+      "codigo": "23901",
+      "descripcion": "OTROS PRODUCTOS ADQUIRIDOS COMO MATERIA PRIMA",
+      "importe": "3,000.00",
+      "import_float": 163.76,
+      "importe_formatted": "$163.76"
+    }
+  ],
+  "2400 : MATERIALES Y ARTÍCULOS DE CONSTRUCCIÓN Y DE REPARACIÓN. : Importe: 60739444.65840001 [$3,315,471.87 USD]": [
+    {
+      "codigo": "24012",
+      "descripcion": "CEMENTO Y PRODUCTOS DE CONCRETO.",
+      "importe": "362,832.44",
+      "import_float": 19805.26,
+      "importe_formatted": "$19,805.26"
+    },
+    {
+      "codigo": "24301",
+      "descripcion": "CAL, YESO Y PRODUCTOS DE YESO.",
+      "importe": "201,435.00",
+      "import_float": 10995.36,
+      "importe_formatted": "$10,995.36"
+    },
+    {
+      "codigo": "24801",
+      "descripcion": "MATERIAL ELECTRICO Y ELECTRÓNICO.",
+      "importe": "774,348.11",
+      "import_float": 42267.91,
+      "importe_formatted": "$42,267.91"
+    },
+    {
+      "codigo": "24801",
+      "descripcion": "MATERIALES COMPLEMENTARIOS.",
+      "importe": "194,566.50",
+      "import_float": 10620.44,
+      "importe_formatted": "$10,620.44"
+    },
+    {
+      "codigo": "24901",
+      "descripcion": "OTROS MATERIALES Y ARTÍCULOS DE CONSTRUCCIÓN Y REPARACIÓN.",
+      "importe": "58,769,393.84",
+      "import_float": 3207936.34,
+      "importe_formatted": "$3,207,936.34"
+    },
+    {
+      "codigo": "24902",
+      "descripcion": "ESTRUCTURAS Y MANUFACTURAS.",
+      "importe": "436,768.81",
+      "import_float": 23841.09,
+      "importe_formatted": "$23,841.09"
+    }
+  ],
+  "2500 : PRODUCTOS QUÍMICOS, FARMACÉUTICOS Y DE LABORATORIO. : Importe: 2484966.5696 [$135,642.28 USD]": [
+    {
+      "codigo": "25101",
+      "descripcion": "PRODUCTOS QUÍMICOS BÁSICOS.",
+      "importe": "1,672,316.67",
+      "import_float": 91283.66,
+      "importe_formatted": "$91,283.66"
+    },
+    {
+      "codigo": "25201",
+      "descripcion": "FERTILIZANTES, PESTICIDAS Y OTROS AGROQUÍMICOS.",
+      "importe": "19,000.00",
+      "import_float": 1037.12,
+      "importe_formatted": "$1,037.12"
+    },
+    {
+      "codigo": "25301",
+      "descripcion": "MEDICINAS Y PRODUCTOS FARMACÉUTICOS.",
+      "importe": "584,700.00",
+      "import_float": 31915.94,
+      "importe_formatted": "$31,915.94"
+    },
+    {
+      "codigo": "25401",
+      "descripcion": "MATERIALES, ACCESORIOS Y SUMINISTROS MÉDICOS.",
+      "importe": "163,949.92",
+      "import_float": 8949.23,
+      "importe_formatted": "$8,949.23"
+    },
+    {
+      "codigo": "25501",
+      "descripcion": "MATERIALES, ACCESORIOS Y SUMINISTROS DE LABORATORIO.",
+      "importe": "65,000.00",
+      "import_float": 3548.03,
+      "importe_formatted": "$3,548.03"
+    }
+  ],
+  "2800 : COMBUSTIBLES, LUBRICANTES Y ADITIVOS. : Importe: 102914599.81120001 [$5,617,609.16 USD]": [
+    {
+      "codigo": "28301",
+      "descripcion": "PRENDAS DE PROTECCIÓN PARA SEGURIDAD PUBLICA Y NACIONAL.",
+      "importe": "25,900.00",
+      "import_float": 1413.76,
+      "importe_formatted": "$1,413.76"
+    }
+  ],
+  "2700 : VESTUARIO, BLANCOS, PRENDAS DE PROTECCIÓN Y ARTÍCULOS DEPORTIVOS. : Importe: 12680982.5384 [$692,193.37 USD]": [
+    {
+      "codigo": "27201",
+      "descripcion": "PRENDAS DE SEGURIDAD Y PROTECCIÓN PERSONAL.",
+      "importe": "359,782.50",
+      "import_float": 19638.78,
+      "importe_formatted": "$19,638.78"
+    },
+    {
+      "codigo": "27301",
+      "descripcion": "ARTÍCULOS DEPORTIVOS.",
+      "importe": "207,320.00",
+      "import_float": 11316.59,
+      "importe_formatted": "$11,316.59"
+    },
+    {
+      "codigo": "27501",
+      "descripcion": "BLANCOS Y OTROS PRODUCTOS TEXTILES, EXCEPTO PRENDAS DE VESTIR.",
+      "importe": "11,700.00",
+      "import_float": 638.65,
+      "importe_formatted": "$638.65"
+    }
+  ],
+  "2701 : VESTUARIO Y UNIFORMES. : Importe: 12162179.923999999 [$663,874.45 USD]": [
+    {
+      "codigo": "27201",
+      "descripcion": "PRENDAS DE SEGURIDAD Y PROTECCIÓN PERSONAL.",
+      "importe": "359,782.50",
+      "import_float": 19638.78,
+      "importe_formatted": "$19,638.78"
+    },
+    {
+      "codigo": "27301",
+      "descripcion": "ARTÍCULOS DEPORTIVOS.",
+      "importe": "207,320.00",
+      "import_float": 11316.59,
+      "importe_formatted": "$11,316.59"
+    },
+    {
+      "codigo": "27501",
+      "descripcion": "BLANCOS Y OTROS PRODUCTOS TEXTILES, EXCEPTO PRENDAS DE VESTIR.",
+      "importe": "11,700.00",
+      "import_float": 638.65,
+      "importe_formatted": "$638.65"
+    }
+  ],
+  "2800 : MATERIALES Y SUMINISTROS PARA SEGURIDAD. : Importe: 28799.956 [$1,572.05 USD]": [
+    {
+      "codigo": "28301",
+      "descripcion": "PRENDAS DE PROTECCIÓN PARA SEGURIDAD PUBLICA Y NACIONAL.",
+      "importe": "25,900.00",
+      "import_float": 1413.76,
+      "importe_formatted": "$1,413.76"
+    }
+  ],
+  "2900 : HERRAMIENTAS, REFACCIONES Y ACCESORIOS MENORES. : Importe: 12702821.8104 [$693,385.47 USD]": [
+    {
+      "codigo": "29101",
+      "descripcion": "HERRAMIENTAS MENORES.",
+      "importe": "718,835.44",
+      "import_float": 39237.74,
+      "importe_formatted": "$39,237.74"
+    },
+    {
+      "codigo": "29201",
+      "descripcion": "REFACCIONES Y ACCESORIOS MENORES DE EDIFICIOS.",
+      "importe": "324,170.00",
+      "import_float": 17694.87,
+      "importe_formatted": "$17,694.87"
+    },
+    {
+      "codigo": "29301",
+      "descripcion": "REFACCIONES Y ACCESORIOS MENORES DE MOBILIARIO Y EQUIPO DE ADMINISTRACIÓN, EDUCACIONAL Y RECREATIVO.",
+      "importe": "16,380.00",
+      "import_float": 894.1,
+      "importe_formatted": "$894.10"
+    },
+    {
+      "codigo": "29401",
+      "descripcion": "REFACCIONES Y ACCESORIOS MENORES DE EQUIPO DE CÓMPUTO Y TECNOLOGÍAS DE LA INFORMACIÓN.",
+      "importe": "701,734.00",
+      "import_float": 38304.26,
+      "importe_formatted": "$38,304.26"
+    },
+    {
+      "codigo": "29801",
+      "descripcion": "REFACCIONES Y ACCESORIOS MENORES DE EQUIPO DE TRANSPORTE.",
+      "importe": "10,372,268.04",
+      "import_float": 566171.84,
+      "importe_formatted": "$566,171.84"
+    },
+    {
+      "codigo": "29901",
+      "descripcion": "REFACCIONES Y ACCESORIOS MENORES OTROS BIENES MUEBLES.",
+      "importe": "569,434.24",
+      "import_float": 31082.66,
+      "importe_formatted": "$31,082.66"
+    }
+  ],
+  "3000 : SERVICIOS GENERALES. : Importe: 381100319.5608 [$20,802,419.19 USD]": [],
+  "3100 : SERVICIOS BÁSICOS. : Importe: 58166663.7336 [$3,175,036.23 USD]": [
+    {
+      "codigo": "31101",
+      "descripcion": "ENERGÍA ELÉCTRICA.",
+      "importe": "14,776,438.57",
+      "import_float": 806574.16,
+      "importe_formatted": "$806,574.16"
+    },
+    {
+      "codigo": "31104",
+      "descripcion": "SERVICIO DE ALUMBRADO PUBLICO.",
+      "importe": "38,000,000.00",
+      "import_float": 2074235.81,
+      "importe_formatted": "$2,074,235.81"
+    },
+    {
+      "codigo": "31201",
+      "descripcion": "GAS.",
+      "importe": "462,950.00",
+      "import_float": 25270.2,
+      "importe_formatted": "$25,270.20"
+    },
+    {
+      "codigo": "31301",
+      "descripcion": "AGUA.",
+      "importe": "53,000.00",
+      "import_float": 2893.01,
+      "importe_formatted": "$2,893.01"
+    },
+    {
+      "codigo": "31401",
+      "descripcion": "TELEFONÍA TRADICIONAL.",
+      "importe": "203.00",
+      "import_float": 11.08,
+      "importe_formatted": "$11.08"
+    },
+    {
+      "codigo": "31501",
+      "descripcion": "TELEFONIA CELULAR.",
+      "importe": "7,300.00",
+      "import_float": 398.47,
+      "importe_formatted": "$398.47"
+    },
+    {
+      "codigo": "31701",
+      "descripcion": "SERVICIOS DE ACCESO A INTERNET, REDES Y PROCESAMIENTO DE INFORMACIÓN.",
+      "importe": "4,837,010.22",
+      "import_float": 264028.94,
+      "importe_formatted": "$264,028.94"
+    },
+    {
+      "codigo": "31801",
+      "descripcion": "SERVICIO POSTAL.",
+      "importe": "19,781.88",
+      "import_float": 1079.8,
+      "importe_formatted": "$1,079.80"
+    }
+  ],
+  "3200 : SERVICIO DE ARRENDAMIENTO. : Importe: 7861875.5776 [$429,141.68 USD]": [
+    {
+      "codigo": "32201",
+      "descripcion": "ARRENDAMIENTO DE EDIFICIOS.",
+      "importe": "2,290,573.76",
+      "import_float": 125031.32,
+      "importe_formatted": "$125,031.32"
+    },
+    {
+      "codigo": "32301",
+      "descripcion": "ARRENDAMIENTO DE MUEBLES, MAQUINARIA Y EQUIPO.",
+      "importe": "2,733,953.87",
+      "import_float": 149233.29,
+      "importe_formatted": "$149,233.29"
+    },
+    {
+      "codigo": "32302",
+      "descripcion": "ARRENDAMIENTO DE EQUIPO Y BIENES INFORMÁTICOS.",
+      "importe": "125,148.00",
+      "import_float": 6831.22,
+      "importe_formatted": "$6,831.22"
+    },
+    {
+      "codigo": "32501",
+      "descripcion": "ARRENDAMIENTO DE EQUIPO DE TRANSPORTE.",
+      "importe": "5,500.00",
+      "import_float": 300.22,
+      "importe_formatted": "$300.22"
+    },
+    {
+      "codigo": "32601",
+      "descripcion": "ARRENDAMIENTO DE MAQUINARIA, OTROS EQUIPOS Y HERRAMIENTAS.",
+      "importe": "2,386,500.00",
+      "import_float": 130267.47,
+      "importe_formatted": "$130,267.47"
+    },
+    {
+      "codigo": "32901",
+      "descripcion": "OTROS ARRENDAMIENTOS.",
+      "importe": "120,000.00",
+      "import_float": 6550.22,
+      "importe_formatted": "$6,550.22"
+    }
+  ],
+  "3300 : SERVICIOS PROFESIONALES, CIENTÍFICOS, TÉCNICOS Y OTROS SERVICIOS. : Importe: 29417894.18 [$1,605,780.25 USD]": [
+    {
+      "codigo": "33101",
+      "descripcion": "SERVICIOS LEGALES, DE CONTABILIDAD, AUDITORIAS Y RELACIONADOS.",
+      "importe": "1,005,000.00",
+      "import_float": 54858.08,
+      "importe_formatted": "$54,858.08"
+    },
+    {
+      "codigo": "33301",
+      "descripcion": "SERVICIOS DE INFORMÁTICA.",
+      "importe": "2,695,000.00",
+      "import_float": 147106.99,
+      "importe_formatted": "$147,106.99"
+    },
+    {
+      "codigo": "33302",
+      "descripcion": "SERVICIOS DE CONSULTORÍAS.",
+      "importe": "4,391,282.91",
+      "import_float": 239698.85,
+      "importe_formatted": "$239,698.85"
+    },
+    {
+      "codigo": "33401",
+      "descripcion": "SERVICIOS DE CAPACITACIÓN.",
+      "importe": "1,439,500.00",
+      "import_float": 78575.33,
+      "importe_formatted": "$78,575.33"
+    },
+    {
+      "codigo": "33501",
+      "descripcion": "ESTUDIOS E INVESTIGACIONES.",
+      "importe": "453,000.00",
+      "import_float": 24727.07,
+      "importe_formatted": "$24,727.07"
+    },
+    {
+      "codigo": "33603",
+      "descripcion": "IMPRESIONES Y PUBLICACIONES OFICIALES.",
+      "importe": "1,445,551.23",
+      "import_float": 78905.63,
+      "importe_formatted": "$78,905.63"
+    },
+    {
+      "codigo": "33801",
+      "descripcion": "SERVICIO DE VIGILANCIA.",
+      "importe": "79,480.00",
+      "import_float": 4338.43,
+      "importe_formatted": "$4,338.43"
+    },
+    {
+      "codigo": "33901",
+      "descripcion": "SUBCONTRATACION DE SERVICIOS CON TERCEROS.",
+      "importe": "1,409,000.00",
+      "import_float": 76910.48,
+      "importe_formatted": "$76,910.48"
+    },
+    {
+      "codigo": "33902",
+      "descripcion": "PROYECTOS PARA PRESTACIONES DE SERVICIOS.",
+      "importe": "16,500,000.00",
+      "import_float": 900655.02,
+      "importe_formatted": "$900,655.02"
+    }
+  ],
+  "3400 : SERVICIOS FINANCIEROS, BANCARIOS Y COMERCIALES. : Importe: 12778373.124 [$697,509.45 USD]": [
+    {
+      "codigo": "34101",
+      "descripcion": "SERVICIOS FINANCIEROS Y BANCARIOS.",
+      "importe": "4,171,600.00",
+      "import_float": 227707.42,
+      "importe_formatted": "$227,707.42"
+    },
+    {
+      "codigo": "34301",
+      "descripcion": "SERVICIOS DE RECAUDACION, TRASLADO Y CUSTODIA DE VALORES.",
+      "importe": "2,500,000.00",
+      "import_float": 136462.88,
+      "importe_formatted": "$136,462.88"
+    },
+    {
+      "codigo": "34401",
+      "descripcion": "SEGUROS DE RESPONSABILIDAD PATRIMONIAL Y FIANZAS.",
+      "importe": "8,012,010.00",
+      "import_float": 437336.79,
+      "importe_formatted": "$437,336.79"
+    },
+    {
+      "codigo": "34701",
+      "descripcion": "FLETES Y MANIOBRAS.",
+      "importe": "94,563.06",
+      "import_float": 5161.74,
+      "importe_formatted": "$5,161.74"
+    }
+  ],
+  "3500 : SERVICIOS DE INSTALACION, REPARACION, MANTENIMIENTO Y CONSERVACION. : Importe: 203780617.46800002 [$11,123,396.15 USD]": [
+    {
+      "codigo": "35101",
+      "descripcion": "MANTENIMIENTO Y CONSERVACION DE INMUEBLES.",
+      "importe": "1,126,200.00",
+      "import_float": 61473.8,
+      "importe_formatted": "$61,473.80"
+    },
+    {
+      "codigo": "35102",
+      "descripcion": "MANTENIMIENTO Y CONSERVACION DE AREAS DEPORTIVAS.",
+      "importe": "5,005,500.00",
+      "import_float": 273225.98,
+      "importe_formatted": "$273,225.98"
+    },
+    {
+      "codigo": "35104",
+      "descripcion": "MANTENIMIENTO Y CONSERVACION DE PANTEONES.",
+      "importe": "22,800.00",
+      "import_float": 1244.54,
+      "importe_formatted": "$1,244.54"
+    },
+    {
+      "codigo": "35106",
+      "descripcion": "MANTENIMIENTO Y CONSERVACION DE PARQUES Y JARDINES.",
+      "importe": "225,000.00",
+      "import_float": 12281.66,
+      "importe_formatted": "$12,281.66"
+    },
+    {
+      "codigo": "35107",
+      "descripcion": "CONSERVACION DE ALUMBRADO PUBLICO.",
+      "importe": "11,500,000.00",
+      "import_float": 627729.26,
+      "importe_formatted": "$627,729.26"
+    },
+    {
+      "codigo": "35108",
+      "descripcion": "CONSERVACION DE TOMAS DE AGUA.",
+      "importe": "1,000.00",
+      "import_float": 54.59,
+      "importe_formatted": "$54.59"
+    },
+    {
+      "codigo": "35109",
+      "descripcion": "CONSERVACION DE SEÑALES DE TRANSITO.",
+      "importe": "4,000,000.00",
+      "import_float": 218340.61,
+      "importe_formatted": "$218,340.61"
+    },
+    {
+      "codigo": "35110",
+      "descripcion": "MANTENIMIENTO Y CONSERVACION DEL RELLENO SANITARIO.",
+      "importe": "80,000,000.00",
+      "import_float": 4366812.23,
+      "importe_formatted": "$4,366,812.23"
+    },
+    {
+      "codigo": "35201",
+      "descripcion": "MANTENIMIENTO Y CONSERVACION DE MOBILIARIO Y EQUIPO.",
+      "importe": "172,562.50",
+      "import_float": 9419.35,
+      "importe_formatted": "$9,419.35"
+    },
+    {
+      "codigo": "35202",
+      "descripcion": "MANTENIMIENTO Y CONSERVACION DE MOBILIARIO Y EQUIPO PARA ESCUELAS, LABORATORIOS Y TALLERES.",
+      "importe": "3,500.00",
+      "import_float": 191.05,
+      "importe_formatted": "$191.05"
+    },
+    {
+      "codigo": "35203",
+      "descripcion": "INSTALACION DE MOBILIARIO Y EQUIPO.",
+      "importe": "65,000.00",
+      "import_float": 3548.03,
+      "importe_formatted": "$3,548.03"
+    },
+    {
+      "codigo": "35302",
+      "descripcion": "MANTENIMIENTO Y CONSERVACION DE BIENES INFORMATICOS.",
+      "importe": "451,900.00",
+      "import_float": 24667.03,
+      "importe_formatted": "$24,667.03"
+    },
+    {
+      "codigo": "35303",
+      "descripcion": "INSTALACION DE EQUIPO DE COMPUTO Y TECNOLOGIA DE LA INFORMACION.",
+      "importe": "4,500.00",
+      "import_float": 245.63,
+      "importe_formatted": "$245.63"
+    },
+    {
+      "codigo": "35501",
+      "descripcion": "MANTENIMIENTO Y CONSERVACION DE EQUIPO DE TRANSPORTE.",
+      "importe": "9,852,230.38",
+      "import_float": 537785.5,
+      "importe_formatted": "$537,785.50"
+    },
+    {
+      "codigo": "35701",
+      "descripcion": "MANTENIMIENTO Y CONSERVACION DE MAQUINARIA Y EQUIPO.",
+      "importe": "235,750.00",
+      "import_float": 12868.45,
+      "importe_formatted": "$12,868.45"
+    },
+    {
+      "codigo": "35702",
+      "descripcion": "MANTENIMIENTO Y CONSERVACION DE HERRAMIENTAS, MAQUINAS, HERRAMENTALES, INSTRUMENTOS, UTILES Y EQUIPO.",
+      "importe": "519,803.00",
+      "import_float": 28373.53,
+      "importe_formatted": "$28,373.53"
+    },
+    {
+      "codigo": "35801",
+      "descripcion": "SERVICIOS DE LIMPIEZA Y MANEJO DE DESECHOS.",
+      "importe": "90,000,000.00",
+      "import_float": 4912663.76,
+      "importe_formatted": "$4,912,663.76"
+    },
+    {
+      "codigo": "35901",
+      "descripcion": "SERVICIOS DE JARDINERIA Y FUMIGACION.",
+      "importe": "520,845.51",
+      "import_float": 28430.43,
+      "importe_formatted": "$28,430.43"
+    },
+    {
+      "codigo": "35902",
+      "descripcion": "SERVICIOS DE LAVANDERIA E HIGIENE.",
+      "importe": "15,800.00",
+      "import_float": 862.45,
+      "importe_formatted": "$862.45"
+    }
+  ],
+  "3800 : SERVICIOS DE COMUNICACION SOCIAL Y PUBLICIDAD. : Importe: 15620109.968799999 [$852,626.09 USD]": [
+    {
+      "codigo": "38201",
+      "descripcion": "GASTOS DE ORDEN SOCIAL Y CULTURAL.",
+      "importe": "14,003,007.89",
+      "import_float": 764356.33,
+      "importe_formatted": "$764,356.33"
+    },
+    {
+      "codigo": "38301",
+      "descripcion": "CONGRESOS Y CONVENCIONES.",
+      "importe": "2,010.00",
+      "import_float": 109.72,
+      "importe_formatted": "$109.72"
+    },
+    {
+      "codigo": "38501",
+      "descripcion": "GASTOS DE REPRESENTACION.",
+      "importe": "744,300.40",
+      "import_float": 40627.75,
+      "importe_formatted": "$40,627.75"
+    }
+  ],
+  "3700 : SERVICIOS DE TRASLADO Y VIATICOS. : Importe: 3274199.864 [$178,722.70 USD]": [
+    {
+      "codigo": "37101",
+      "descripcion": "PASAJE AEREOS.",
+      "importe": "801,100.00",
+      "import_float": 43728.17,
+      "importe_formatted": "$43,728.17"
+    },
+    {
+      "codigo": "37201",
+      "descripcion": "PASAJE TERRESTRES.",
+      "importe": "20,000.00",
+      "import_float": 1091.7,
+      "importe_formatted": "$1,091.70"
+    },
+    {
+      "codigo": "37501",
+      "descripcion": "VIATICOS.",
+      "importe": "2,242,299.92",
+      "import_float": 122396.28,
+      "importe_formatted": "$122,396.28"
+    },
+    {
+      "codigo": "37601",
+      "descripcion": "VIATICOS EN EL EXTRANJERO.",
+      "importe": "130,000.00",
+      "import_float": 7096.07,
+      "importe_formatted": "$7,096.07"
+    },
+    {
+      "codigo": "37901",
+      "descripcion": "CUOTAS.",
+      "importe": "68,799.96",
+      "import_float": 3755.46,
+      "importe_formatted": "$3,755.46"
+    },
+    {
+      "codigo": "37902",
+      "descripcion": "GASTOS PARA OPERATIVOS Y TRABAJOS EN CAMPO EN AREAS RURALES.",
+      "importe": "12,000.00",
+      "import_float": 655.02,
+      "importe_formatted": "$655.02"
+    }
+  ],
+  "3800 : SERVICIOS OFICIALES. : Importe: 14749318.232800001 [$805,093.79 USD]": [
+    {
+      "codigo": "38201",
+      "descripcion": "GASTOS DE ORDEN SOCIAL Y CULTURAL.",
+      "importe": "14,003,007.89",
+      "import_float": 764356.33,
+      "importe_formatted": "$764,356.33"
+    },
+    {
+      "codigo": "38301",
+      "descripcion": "CONGRESOS Y CONVENCIONES.",
+      "importe": "2,010.00",
+      "import_float": 109.72,
+      "importe_formatted": "$109.72"
+    },
+    {
+      "codigo": "38501",
+      "descripcion": "GASTOS DE REPRESENTACION.",
+      "importe": "744,300.40",
+      "import_float": 40627.75,
+      "importe_formatted": "$40,627.75"
+    }
+  ],
+  "3900 : OTROS SERVICIOS GENERALES. : Importe: 35661567.4552 [$1,946,592.11 USD]": [
+    {
+      "codigo": "39101",
+      "descripcion": "SERVICIOS FUNERARIOS Y DE CEMENTERIOS.",
+      "importe": "226,000.00",
+      "import_float": 12336.24,
+      "importe_formatted": "$12,336.24"
+    },
+    {
+      "codigo": "39102",
+      "descripcion": "PREPARACION DE CUERPO.",
+      "importe": "2,000.00",
+      "import_float": 109.17,
+      "importe_formatted": "$109.17"
+    },
+    {
+      "codigo": "39201",
+      "descripcion": "IMPUESTOS Y DERECHOS.",
+      "importe": "496,726.98",
+      "import_float": 27113.92,
+      "importe_formatted": "$27,113.92"
+    },
+    {
+      "codigo": "39501",
+      "descripcion": "PENAS, MULTAS, ACCESORIOS Y ACTUALIZACIONES.",
+      "importe": "3,536,200.35",
+      "import_float": 193024.04,
+      "importe_formatted": "$193,024.04"
+    },
+    {
+      "codigo": "39801",
+      "descripcion": "IMPUESTO SOBRE NOMINAS Y OTROS QUE SE DERIVEN DE UNA RELACION LABORAL",
+      "importe": "22,269,999.46",
+      "import_float": 1215611.32,
+      "importe_formatted": "$1,215,611.32"
+    },
+    {
+      "codigo": "39901",
+      "descripcion": "SERVICIOS ASISTENCIALES.",
+      "importe": "9,057,609.03",
+      "import_float": 494410.97,
+      "importe_formatted": "$494,410.97"
+    },
+    {
+      "codigo": "39903",
+      "descripcion": "GASTO POR DAÑOS A TERCEROS.",
+      "importe": "73,030.99",
+      "import_float": 3986.41,
+      "importe_formatted": "$3,986.41"
+    }
+  ],
+  "4000 : TRANSFERENCIAS DE RECURSOS FISCALES. : Importe: 462948487.01440006 [$25,270,113.92 USD]": [],
+  "4100 : TRANSFERENCIAS INTERNAS Y ASIGNACIONES AL SECTOR PUBLICO. : Importe: 171513213.8168 [$9,362,074.99 USD]": [
+    {
+      "codigo": "41501",
+      "descripcion": "TRANSFERENCIAS PARA SERVICIOS PERSONALES.",
+      "importe": "39,024,806.63",
+      "import_float": 2130175.03,
+      "importe_formatted": "$2,130,175.03"
+    },
+    {
+      "codigo": "41502",
+      "descripcion": "TRANSFERENCIAS PARA GASTOS DE OPERACION.",
+      "importe": "21,872,622.00",
+      "import_float": 1193920.41,
+      "importe_formatted": "$1,193,920.41"
+    },
+    {
+      "codigo": "41503",
+      "descripcion": "APOYOS PRESUPUESTARIO A ORGANISMOS E INSTITUCIONES.",
+      "importe": "110,815,785.21",
+      "import_float": 6048896.57,
+      "importe_formatted": "$6,048,896.57"
+    }
+  ],
+  "4400 : AYUDAS SOCIALES. : Importe: 24886025.5832 [$1,358,407.51 USD]": [
+    {
+      "codigo": "44101",
+      "descripcion": "AYUDAS SOCIALES A PERSONAS.",
+      "importe": "2,004,000.00",
+      "import_float": 109388.65,
+      "importe_formatted": "$109,388.65"
+    },
+    {
+      "codigo": "44102",
+      "descripcion": "TRANSFERENCIAS PARA APOYOS EN PROGRAMAS SOCIALES.",
+      "importe": "1,200,000.00",
+      "import_float": 65502.18,
+      "importe_formatted": "$65,502.18"
+    },
+    {
+      "codigo": "44103",
+      "descripcion": "APOYO PARA DESPENSAS.",
+      "importe": "1,000,000.00",
+      "import_float": 54585.15,
+      "importe_formatted": "$54,585.15"
+    },
+    {
+      "codigo": "44201",
+      "descripcion": "BECAS EDUCATIVAS.",
+      "importe": "6,528,025.50",
+      "import_float": 356333.27,
+      "importe_formatted": "$356,333.27"
+    },
+    {
+      "codigo": "44204",
+      "descripcion": "FOMENTO DEPORTIVO.",
+      "importe": "2,154,000.00",
+      "import_float": 117576.42,
+      "importe_formatted": "$117,576.42"
+    },
+    {
+      "codigo": "44401",
+      "descripcion": "AYUDAS CULTURALES Y SOCIALES.",
+      "importe": "3,000,000.00",
+      "import_float": 163755.46,
+      "importe_formatted": "$163,755.46"
+    },
+    {
+      "codigo": "44402",
+      "descripcion": "ACCIONES SOCIALES BASICAS.",
+      "importe": "9,000,000.00",
+      "import_float": 491266.38,
+      "importe_formatted": "$491,266.38"
+    }
+  ],
+  "4500 : PENSIONES Y JUBILACIONES. : Importe: 266540247.548 [$14,549,140.15 USD]": [
+    {
+      "codigo": "45101",
+      "descripcion": "PENSIONES.",
+      "importe": "266,549,247.60",
+      "import_float": 14549631.42,
+      "importe_formatted": "$14,549,631.42"
+    }
+  ],
+  "5000 : BIENES MUEBLES E INMUEBLES. : Importe: 48652835.1008 [$2,655,722.44 USD]": [],
+  "5100 : MOBILIARIO Y EQUIPO DE ADMINISTRACION. : Importe: 1745837.3760000002 [$95,296.80 USD]": [
+    {
+      "codigo": "51101",
+      "descripcion": "MUEBLES DE OFICINA Y ESTANTERIA.",
+      "importe": "814,977.15",
+      "import_float": 44485.65,
+      "importe_formatted": "$44,485.65"
+    },
+    {
+      "codigo": "51501",
+      "descripcion": "EQUIPO DE COMPUTO Y DE TECNOLOGIAS DE LA INFORMACION.",
+      "importe": "907,660.79",
+      "import_float": 49544.8,
+      "importe_formatted": "$49,544.80"
+    },
+    {
+      "codigo": "51901",
+      "descripcion": "OTROS MOBILIARIOS Y EQUIPO DE ADMINISTRACION.",
+      "importe": "213,000.00",
+      "import_float": 11626.64,
+      "importe_formatted": "$11,626.64"
+    },
+    {
+      "codigo": "51902",
+      "descripcion": "MOBILIARIO Y EQUIPO PARA ESCUELAS, LABORATORIOS Y TALLERES.",
+      "importe": "11,000.00",
+      "import_float": 600.44,
+      "importe_formatted": "$600.44"
+    }
+  ],
+  "5200 : MOBILIARIO Y EQUIPO EDUCACIONAL Y RECREATIVO. : Importe: 4407999.932 [$240,611.35 USD]": [
+    {
+      "codigo": "52301",
+      "descripcion": "CAMARAS FOTOGRAFICAS Y DE VIDEO.",
+      "importe": "83,000.00",
+      "import_float": 4530.57,
+      "importe_formatted": "$4,530.57"
+    },
+    {
+      "codigo": "52901",
+      "descripcion": "OTRO MOBILIARIO Y EQUIPO EDUCACIONAL Y RECREATIVO.",
+      "importe": "4,088,000.00",
+      "import_float": 223144.1,
+      "importe_formatted": "$223,144.10"
+    }
+  ],
+  "5201 : EQUIPOS Y APARATOS AUDIOVISUALES. : Importe: 256999.9216 [$14,028.38 USD]": [
+    {
+      "codigo": "52301",
+      "descripcion": "CAMARAS FOTOGRAFICAS Y DE VIDEO.",
+      "importe": "83,000.00",
+      "import_float": 4530.57,
+      "importe_formatted": "$4,530.57"
+    },
+    {
+      "codigo": "52901",
+      "descripcion": "OTRO MOBILIARIO Y EQUIPO EDUCACIONAL Y RECREATIVO.",
+      "importe": "4,088,000.00",
+      "import_float": 223144.1,
+      "importe_formatted": "$223,144.10"
+    }
+  ],
+  "5300 : EQUIPO E INSTRUMENTAL MEDICO Y DE LABORATORIO. : Importe: 7000.072 [$382.10 USD]": [
+    {
+      "codigo": "53101",
+      "descripcion": "EQUIPO MEDICO Y DE LABORATORIO.",
+      "importe": "7,000.00",
+      "import_float": 382.1,
+      "importe_formatted": "$382.10"
+    },
+    {
+      "codigo": "53201",
+      "descripcion": "INSTRUMENTAL MEDICO Y DE LABORATORIO.",
+      "importe": "500.00",
+      "import_float": 27.29,
+      "importe_formatted": "$27.29"
+    }
+  ],
+  "5400 : VEHICULOS Y EQUIPO DE TRANSPORTE. : Importe: 28050210.0 [$1,531,125.00 USD]": [
+    {
+      "codigo": "54101",
+      "descripcion": "AUTOMOVILES Y CAMIONES.",
+      "importe": "3,000,610.00",
+      "import_float": 163788.76,
+      "importe_formatted": "$163,788.76"
+    },
+    {
+      "codigo": "54102",
+      "descripcion": "VEHICULOS DE SEGURIDAD PUBLICA.",
+      "importe": "25,000.00",
+      "import_float": 1364.63,
+      "importe_formatted": "$1,364.63"
+    },
+    {
+      "codigo": "54201",
+      "descripcion": "CARROCERIAS Y REMOLQUES.",
+      "importe": "50,000.00",
+      "import_float": 2729.26,
+      "importe_formatted": "$2,729.26"
+    }
+  ],
+  "5600 : MAQUINARIA, OTROS EQUIPOS Y HERRAMIENTAS. : Importe: 14390887.0664 [$785,528.77 USD]": [
+    {
+      "codigo": "56201",
+      "descripcion": "MAQUINARIA Y EQUIPO INDUSTRIAL.",
+      "importe": "13,285,000.00",
+      "import_float": 725163.76,
+      "importe_formatted": "$725,163.76"
+    },
+    {
+      "codigo": "56401",
+      "descripcion": "SISTEMAS DE AIRE ACONDICIONADO, CALEFACCIÓN Y DE REFRIGERACIÓN INDUSTRIAL Y COMERCIAL.",
+      "importe": "263,936.32",
+      "import_float": 14407.0,
+      "importe_formatted": "$14,407.00"
+    },
+    {
+      "codigo": "56501",
+      "descripcion": "EQUIPO DE COMUNICACIÓN Y TELECOMUNICACIÓN.",
+      "importe": "41,045.64",
+      "import_float": 2240.48,
+      "importe_formatted": "$2,240.48"
+    },
+    {
+      "codigo": "56601",
+      "descripcion": "EQUIPOS DE GENERACIÓN ELÉCTRICA, APARATOS Y ACCESORIOS ELÉCTRICOS.",
+      "importe": "17,697.00",
+      "import_float": 965.99,
+      "importe_formatted": "$965.99"
+    },
+    {
+      "codigo": "56702",
+      "descripcion": "REFACCIONES Y ACCESORIOS MAYORES.",
+      "importe": "242,456.32",
+      "import_float": 13234.52,
+      "importe_formatted": "$13,234.52"
+    }
+  ],
+  "5900 : ACTIVOS INTANGIBLES. : Importe: 50000.04320000001 [$2,729.26 USD]": [
+    {
+      "codigo": "59101",
+      "descripcion": "SOFTWARE.",
+      "importe": "50,000.00",
+      "import_float": 2729.26,
+      "importe_formatted": "$2,729.26"
+    }
+  ],
+  "6000 : INVERSIONES EN INFRAESTRUCTURA PARA EL DESARROLLO MUNICIPAL. : Importe: 168640609.0544 [$9,205,273.42 USD]": [],
+  "6100 : OBRA PUBLICA EN BIENES DE DOMINIO PUBLICO. : Importe: 167046508.9104 [$9,118,259.22 USD]": [
+    {
+      "codigo": "61408",
+      "descripcion": "INFRAESTRUCTURA Y EQUIPAMIENTO EN MATERIA DE AGUA POTABLE",
+      "importe": "24,211,294.53",
+      "import_float": 1321577.21,
+      "importe_formatted": "$1,321,577.21"
+    },
+    {
+      "codigo": "61409",
+      "descripcion": "INFRAESTRUCTURA Y EQUIPAMIENTO EN MATERIA DE ALCANTARILLADO",
+      "importe": "21,517,814.44",
+      "import_float": 1174553.19,
+      "importe_formatted": "$1,174,553.19"
+    },
+    {
+      "codigo": "61418",
+      "descripcion": "CONSTRUCCIÓN Y REHABILITACION DE CALLES",
+      "importe": "41,874,800.00",
+      "import_float": 2285742.36,
+      "importe_formatted": "$2,285,742.36"
+    },
+    {
+      "codigo": "61422",
+      "descripcion": "PAVIMENTACIÓN DE CALLES Y AVENIDAS",
+      "importe": "63,379,900.00",
+      "import_float": 3459601.53,
+      "importe_formatted": "$3,459,601.53"
+    },
+    {
+      "codigo": "61501",
+      "descripcion": "RECONSTRUCCIÓN",
+      "importe": "16,062,000.00",
+      "import_float": 876746.72,
+      "importe_formatted": "$876,746.72"
+    }
+  ],
+  "6200 : OBRA PUBLICA EN BIENES PROPIOS. : Importe: 1594799.9679999999 [$87,052.40 USD]": [
+    {
+      "codigo": "62201",
+      "descripcion": "CONSTRUCCIÓN",
+      "importe": "1,594,800.00",
+      "import_float": 87052.4,
+      "importe_formatted": "$87,052.40"
+    }
+  ],
+  "9100 : DEUDA PÚBLICA. : Importe: 179997251.0672 [$9,825,177.46 USD]": [
+    {
+      "codigo": "91101",
+      "descripcion": "AMORTIZACIÓN DE LA DEUDA PUBLICA.",
+      "importe": "45,000,000.00",
+      "import_float": 2456331.88,
+      "importe_formatted": "$2,456,331.88"
+    },
+    {
+      "codigo": "91101",
+      "descripcion": "AMORTIZACIÓN CAPITAL LARGO PLAZO.",
+      "importe": "45,000,000.00",
+      "import_float": 2456331.88,
+      "importe_formatted": "$2,456,331.88"
+    }
+  ],
+  "9200 : INTERESES DE LA DEUDA PUBLICA. : Importe: 76965581.876 [$4,201,178.05 USD]": [],
+  "9201 : PAGO DE INTERESES LARGO PLAZO. : Importe: 76965581.876 [$4,201,178.05 USD]": []
+}

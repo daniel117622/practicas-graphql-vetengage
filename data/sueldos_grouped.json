@@ -1,0 +1,2769 @@
+{
+  "8000 : CUERPOS DE SEGURIDAD Y ALTOS FUNCIONARIOS": [
+    {
+      "position_id": 8013,
+      "position": "SECRETARIO DE IMAGEN URBANA Y SERVICIOS PUBLICOS",
+      "lower_wage": 43195.11,
+      "upper_wage": 43195.11,
+      "employee_count": 1
+    },
+    {
+      "position_id": 8005,
+      "position": "SECRETARIO DE DESARROLLO ECONOMICO",
+      "lower_wage": 43195.11,
+      "upper_wage": 43195.11,
+      "employee_count": 1
+    },
+    {
+      "position_id": 8002,
+      "position": "DIRECTOR GENERAL DIF CAJEME",
+      "lower_wage": 43195.11,
+      "upper_wage": 43195.11,
+      "employee_count": 1
+    },
+    {
+      "position_id": 8011,
+      "position": "TESORERO MUNICIPAL",
+      "lower_wage": 43195,
+      "upper_wage": 43195,
+      "employee_count": 1
+    },
+    {
+      "position_id": 8007,
+      "position": "SECRETARIO DE DESARROLLO URBANO Y OBRAS PUBLICAS",
+      "lower_wage": 43195,
+      "upper_wage": 43195,
+      "employee_count": 1
+    },
+    {
+      "position_id": 8021,
+      "position": "SECRETARIO DE BIENESTAR",
+      "lower_wage": 43195,
+      "upper_wage": 43195,
+      "employee_count": 1
+    },
+    {
+      "position_id": 8001,
+      "position": "COORDINADOR GENERAL DE TESORERIA",
+      "lower_wage": 38439,
+      "upper_wage": 38439,
+      "employee_count": 1
+    },
+    {
+      "position_id": 8009,
+      "position": "SECRETARIO PARTICULAR DEL PRESIDENTE",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 8020,
+      "position": "DIRECTOR DE CONTROL Y SEGUIMIENTO DE OBRAS MPALES",
+      "lower_wage": 33505,
+      "upper_wage": 33505,
+      "employee_count": 1
+    }
+  ],
+  "7000 : DIRECCIONES Y SECRETARÍAS MUNICIPALES": [
+    {
+      "position_id": 7011,
+      "position": "DIRECTOR DE GESTION AMBIENTAL PARA EL DESARROLLO SUSTENTABLE",
+      "lower_wage": 35305,
+      "upper_wage": 35305,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7077,
+      "position": "DIRECTOR DE SALUD MUNICIPAL",
+      "lower_wage": 33506,
+      "upper_wage": 33506,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7081,
+      "position": "DIRECTOR DE PROGRAMAS SOCIALES, DESARROLLO COMUNITARIO Y ASUNTOS INDÍGENAS",
+      "lower_wage": 33506,
+      "upper_wage": 33506,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7094,
+      "position": "DIRECTOR DEL INSTITUTO MUNICIPAL DE CULTURA",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7012,
+      "position": "DIRECTOR DE EDUCACION MUNICIPAL",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7083,
+      "position": "DIRECTOR DE ASUNTOS DE GOBIERNO",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7015,
+      "position": "DIRECTORA DE INSPECCIÓN Y VIGILANCIA",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7002,
+      "position": "DIRECTOR ADMINISTRATIVO",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7093,
+      "position": "DIRECTOR OPERATIVO",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7019,
+      "position": "DIRECTOR DE TALLERES",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7037,
+      "position": "DIRECTOR DE SERVICIOS PUBLICOS",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7080,
+      "position": "DIRECTOR DE CENTRAL DE MAQUINARIA, EFICIENCIA Y CONTROL",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7041,
+      "position": "DIRECTOR DE DESARROLLO ECONOMICO",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7065,
+      "position": "DIRECTOR DE INOVACION Y VINCULACION",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7092,
+      "position": "DIRECTOR DE LA UNIDAD MUNICIPAL PARA EL DESARROLLO RURAL",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7034,
+      "position": "DIRECTOR DEL CIFA",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7074,
+      "position": "PROCURADOR DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DE CAJEME",
+      "lower_wage": 33505.95,
+      "upper_wage": 33505.95,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7008,
+      "position": "DIRECTOR DE COMUNICACION SOCIAL",
+      "lower_wage": 33505,
+      "upper_wage": 33505,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7007,
+      "position": "DIRECTOR DE CATASTRO",
+      "lower_wage": 33505,
+      "upper_wage": 33505,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7014,
+      "position": "DIRECTOR DE INGRESOS",
+      "lower_wage": 33505,
+      "upper_wage": 33505,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7027,
+      "position": "DIRECTOR DE CONTABILIDAD",
+      "lower_wage": 33505,
+      "upper_wage": 33505,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7096,
+      "position": "DIRECTOR DE PRESUPUESTO Y GASTO PUBLICO",
+      "lower_wage": 33505,
+      "upper_wage": 33505,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7010,
+      "position": "DIRECTOR DE DESARROLLO URBANO",
+      "lower_wage": 33505,
+      "upper_wage": 33505,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7016,
+      "position": "DIRECTOR DE OBRAS PUBLICAS",
+      "lower_wage": 33505,
+      "upper_wage": 33505,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7078,
+      "position": "DIRECTOR DE COMISARIAS Y DELEGACIONES",
+      "lower_wage": 29288.1,
+      "upper_wage": 29288.1,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7056,
+      "position": "DIRECTOR DE PROGRAMAS DE PREVENCION DEL DELITO",
+      "lower_wage": 29288.1,
+      "upper_wage": 29288.1,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7005,
+      "position": "DIRECTOR GENERAL DEL INSTITUTO CAJEMENSE DE LA JUVENTUD",
+      "lower_wage": 29288,
+      "upper_wage": 29288,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7013,
+      "position": "DIRECTOR DE INFORMATICA",
+      "lower_wage": 29288,
+      "upper_wage": 29288,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7021,
+      "position": "DIRECTOR DEL PARQUE INFANTIL",
+      "lower_wage": 25284.39,
+      "upper_wage": 25284.39,
+      "employee_count": 1
+    },
+    {
+      "position_id": 7022,
+      "position": "DIRECTOR DEL VELATORIO",
+      "lower_wage": 21530,
+      "upper_wage": 21530,
+      "employee_count": 1
+    }
+  ],
+  "5000 : COORDINACIONES Y JEFATURAS": [
+    {
+      "position_id": 5034,
+      "position": "COORDINADOR DE PLANEACION PRESUPUESTAL Y PREVISION SOCIAL",
+      "lower_wage": 33642,
+      "upper_wage": 33642,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5043,
+      "position": "JEFE DEL DEPARTAMENTO DE CONTROL URBANO",
+      "lower_wage": 29287,
+      "upper_wage": 29287,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5098,
+      "position": "COORDINADOR DE PROGRAMACION Y PRESUPUESTO",
+      "lower_wage": 29122,
+      "upper_wage": 29122,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5005,
+      "position": "SUBDIRECTOR DE CENTRAL DE MAQUINARIA",
+      "lower_wage": 24455.14,
+      "upper_wage": 24455.14,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5063,
+      "position": "COORDINADOR DE DESARROLLO Y AUDITORIA DE PROGRAMAS",
+      "lower_wage": 24445.14,
+      "upper_wage": 24445.14,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5116,
+      "position": "COORDINADOR DE SERVICIOS GENERALES",
+      "lower_wage": 24445.14,
+      "upper_wage": 24445.14,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5074,
+      "position": "COORDINADOR DE VIVIENDA",
+      "lower_wage": 24208,
+      "upper_wage": 24208,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5018,
+      "position": "COORDINADOR DE DEPARTAMENTO DE DIBUJO",
+      "lower_wage": 24027,
+      "upper_wage": 24027,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5016,
+      "position": "JEFE DE DEPARTAMENTO DE ACTOS CIVICOS",
+      "lower_wage": 22970,
+      "upper_wage": 22970,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5019,
+      "position": "JEFE DE DEPARTAMENTO DE NORMATIVIDAD AMBIENTAL Y RECURSOS NATURALES",
+      "lower_wage": 22970,
+      "upper_wage": 22970,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5059,
+      "position": "JEFE DE SEÑALIZACION Y SEMAFORIZACION",
+      "lower_wage": 22711.5,
+      "upper_wage": 22711.5,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5040,
+      "position": "JEFE DEL C.A.D.I. NO. 1",
+      "lower_wage": 22554.68,
+      "upper_wage": 22554.68,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5041,
+      "position": "JEFE DEL C.A.D.I. NO. 2",
+      "lower_wage": 22554.68,
+      "upper_wage": 22554.68,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5093,
+      "position": "JEFE ADMINISTRATIVO",
+      "lower_wage": 22554.68,
+      "upper_wage": 22554.68,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5042,
+      "position": "JEFE DEL C.A.D.I. NO. 3",
+      "lower_wage": 22552.52,
+      "upper_wage": 22552.52,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5113,
+      "position": "TITULAR DE LA UNIDAD DE TRANSPARENCIA",
+      "lower_wage": 22405.44,
+      "upper_wage": 22405.44,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5094,
+      "position": "JEFE DE DEPARTAMENTO DE ALUMBRADO PUBLICO",
+      "lower_wage": 22331.23,
+      "upper_wage": 22331.23,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5067,
+      "position": "JEFE DE SISTEMAS ALFANUMERICOS",
+      "lower_wage": 22325,
+      "upper_wage": 22325,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5102,
+      "position": "COORDINADOR DE UBR",
+      "lower_wage": 22002.42,
+      "upper_wage": 22002.42,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5105,
+      "position": "COORDINADOR DE DESARROLLO COMUNITARIO",
+      "lower_wage": 20559,
+      "upper_wage": 20559,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5021,
+      "position": "JEFE DE TRABAJO SOCIAL",
+      "lower_wage": 20449.15,
+      "upper_wage": 20449.15,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5087,
+      "position": "ASESOR TECNICO DE COMUNICACION Y MEDIOS",
+      "lower_wage": 19467,
+      "upper_wage": 19467,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5114,
+      "position": "JEFE DE LA OFICINA DE ENLACE",
+      "lower_wage": 19467,
+      "upper_wage": 19467,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5104,
+      "position": "ENCARGADO DE VINCULACION",
+      "lower_wage": 19422,
+      "upper_wage": 19422,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5068,
+      "position": "JEFE DE SERVICIOS Y PRODUCTOS CATASTRALES",
+      "lower_wage": 19307,
+      "upper_wage": 19307,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5039,
+      "position": "JEFE DEL AREA TECNICA",
+      "lower_wage": 19300,
+      "upper_wage": 19300,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5078,
+      "position": "COORDINADOR DE LICENCIAS DE CONSTRUCCION Y FRACCIONAMIENTOS",
+      "lower_wage": 18972,
+      "upper_wage": 18972,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5111,
+      "position": "COORDINADOR DE LA UNIDAD MUNICIPAL PARA EL DESARROLLO RURAL",
+      "lower_wage": 18937.07,
+      "upper_wage": 18937.07,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5025,
+      "position": "JEFE DE DEPARTAMENTO DE TOPOGRAFIA",
+      "lower_wage": 18736,
+      "upper_wage": 18736,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5010,
+      "position": "ENCARGADO DE CENTRO ANTIRRABICO",
+      "lower_wage": 17425,
+      "upper_wage": 17425,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5024,
+      "position": "JEFE DE DESAYUNOS ESCOLARES",
+      "lower_wage": 17421.88,
+      "upper_wage": 17421.88,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5108,
+      "position": "COORDINADOR DE CONTROL Y SEGUIMIENTO",
+      "lower_wage": 17336,
+      "upper_wage": 17336,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5075,
+      "position": "JEFE DE DEPARTAMENTO DE SERVICIOS ESPECIALES",
+      "lower_wage": 16131.82,
+      "upper_wage": 16131.82,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5054,
+      "position": "JEFE DE BARRIDO DE CALLES",
+      "lower_wage": 15216.94,
+      "upper_wage": 15216.94,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5051,
+      "position": "SUPERVISOR DE MANTENIMIENTO Y BACHEO",
+      "lower_wage": 15022.54,
+      "upper_wage": 15022.54,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5070,
+      "position": "JEFE DE SISTEMAS CARTOGRAFICOS",
+      "lower_wage": 15022,
+      "upper_wage": 15022,
+      "employee_count": 1
+    },
+    {
+      "position_id": 5028,
+      "position": "JEFE DE CULTURA PARA EL DESARROLLO SUSTENTABLE",
+      "lower_wage": 15022,
+      "upper_wage": 15022,
+      "employee_count": 1
+    }
+  ],
+  "4000 : COORDINADORES Y ARCHIVO MUNICIPAL": [
+    {
+      "position_id": 4061,
+      "position": "COORDINADOR DE SEGUIMIENTO",
+      "lower_wage": 32412,
+      "upper_wage": 32412,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4255,
+      "position": "COORDINADOR DE SISTEMA DE INFORMATICA",
+      "lower_wage": 29001,
+      "upper_wage": 29001,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4098,
+      "position": "ENCARGADO DE PENSIONES Y JUBILACIONES",
+      "lower_wage": 28005,
+      "upper_wage": 28005,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4329,
+      "position": "COORDINADOR DE MEJORA REGULATORIA",
+      "lower_wage": 26875.61,
+      "upper_wage": 26875.61,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4166,
+      "position": "OFICIAL",
+      "lower_wage": 26301.66,
+      "upper_wage": 26301.66,
+      "employee_count": 4
+    },
+    {
+      "position_id": 4235,
+      "position": "CONTADOR DE CONCILIACIONES CON SUBSISTEMAS",
+      "lower_wage": 25769,
+      "upper_wage": 25769,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4326,
+      "position": "COORDINADOR DE INGRESOS",
+      "lower_wage": 25769,
+      "upper_wage": 25769,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4059,
+      "position": "COORDINADOR DE RECURSOS MATERIALES",
+      "lower_wage": 25713.64,
+      "upper_wage": 25713.64,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4335,
+      "position": "SECRETARIO DE ACUERDOS Y PROYECTOS",
+      "lower_wage": 25523.4,
+      "upper_wage": 25523.4,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4133,
+      "position": "COORDINADOR DE EDUCACION PREVENTIVA Y SEGURIDAD DEL CIUDADANO",
+      "lower_wage": 25419.81,
+      "upper_wage": 25419.81,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4191,
+      "position": "COORDINADOR DE EVALUACION TECNOLOGIA E INNOVACION",
+      "lower_wage": 25139.33,
+      "upper_wage": 25139.33,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4323,
+      "position": "COORDINADOR DE SEGUIMIENTO DE PROCESOS",
+      "lower_wage": 25139,
+      "upper_wage": 25139,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4063,
+      "position": "COORDINADOR DE SERVICIOS ASISTENCIALES",
+      "lower_wage": 25113.51,
+      "upper_wage": 25113.51,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4152,
+      "position": "ENCARGADO DE PROYECTOS ESPECIALES",
+      "lower_wage": 24445,
+      "upper_wage": 24445,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4311,
+      "position": "COORDINADOR DE SERVICIOS CATASTRALES",
+      "lower_wage": 24329,
+      "upper_wage": 24329,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4025,
+      "position": "COORDINADOR DE CONTROL PRESUPUESTAL",
+      "lower_wage": 24027.44,
+      "upper_wage": 24027.44,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4272,
+      "position": "ENCARGADO DE COMPRAS",
+      "lower_wage": 23200,
+      "upper_wage": 23200,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4292,
+      "position": "ENCARGADA DEL PROCESO DE ALTA",
+      "lower_wage": 22970,
+      "upper_wage": 22970,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4002,
+      "position": "ASESOR JURIDICO",
+      "lower_wage": 22862,
+      "upper_wage": 22862,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4091,
+      "position": "COORDINADOR DEL VOLUNTARIADO",
+      "lower_wage": 22785.04,
+      "upper_wage": 22785.04,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4247,
+      "position": "ANALISTA DE DESARROLLO ORGANIZACIONAL Y SEGURIDAD E HIGIENE",
+      "lower_wage": 22750,
+      "upper_wage": 22750,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4085,
+      "position": "COORDINADOR DE PREDIAL EJIDAL Y ZOFEMAT",
+      "lower_wage": 22717.44,
+      "upper_wage": 22717.44,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4331,
+      "position": "JEFE OPERATIVO DE LA ACADEMIA DE POLICIA",
+      "lower_wage": 22711.5,
+      "upper_wage": 22711.5,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4080,
+      "position": "COORDINADOR PROGRAMA AMAC",
+      "lower_wage": 22554.68,
+      "upper_wage": 22554.68,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4095,
+      "position": "ENCARGADO DE PASAPORTES",
+      "lower_wage": 22532.69,
+      "upper_wage": 22532.69,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4312,
+      "position": "COORDINADOR DE JUECES",
+      "lower_wage": 22405.44,
+      "upper_wage": 22405.44,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4010,
+      "position": "CONTADOR DE REGISTRO Y CONTROL DE ARCHIVO",
+      "lower_wage": 22087.49,
+      "upper_wage": 22087.49,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4165,
+      "position": "SUBOFICIAL",
+      "lower_wage": 21918.44,
+      "upper_wage": 21918.44,
+      "employee_count": 10
+    },
+    {
+      "position_id": 4187,
+      "position": "ASESOR DE ASUNTOS DE GOBIERNO",
+      "lower_wage": 21630,
+      "upper_wage": 21630,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4054,
+      "position": "COORDINADOR DE PSICOLOGOS",
+      "lower_wage": 21611.12,
+      "upper_wage": 21611.12,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4107,
+      "position": "PSICOLOGO",
+      "lower_wage": 13039.41,
+      "upper_wage": 30137.81,
+      "employee_count": 39
+    },
+    {
+      "position_id": 4328,
+      "position": "COORDINADOR DE VIALIDAD URBANA Y DRENAJE PLUVIAL",
+      "lower_wage": 21386,
+      "upper_wage": 21386,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4122,
+      "position": "SECRETARIO PARTICULAR DE SEGURIDAD PUBLICA",
+      "lower_wage": 21356.12,
+      "upper_wage": 21362.12,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4198,
+      "position": "COORDINADOR DE PROGRAMAS ESCOLARIZADOS",
+      "lower_wage": 20860.96,
+      "upper_wage": 20860.96,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4344,
+      "position": "COORDINADOR DE CONTROL ESCOLAR",
+      "lower_wage": 20305.34,
+      "upper_wage": 20903.25,
+      "employee_count": 4
+    },
+    {
+      "position_id": 4249,
+      "position": "ENCARGADO DE PREVISION SOCIAL",
+      "lower_wage": 20311,
+      "upper_wage": 20311,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4310,
+      "position": "JUEZ CIVICO",
+      "lower_wage": 20192.69,
+      "upper_wage": 20192.69,
+      "employee_count": 5
+    },
+    {
+      "position_id": 4083,
+      "position": "COORDINADOR DE ASISTENCIA JURIDICO",
+      "lower_wage": 20052.09,
+      "upper_wage": 20052.09,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4111,
+      "position": "COORDINADOR DE IMPUESTO PREDIAL",
+      "lower_wage": 20034,
+      "upper_wage": 20034,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4132,
+      "position": "COORDINADOR DE SOPORTE TECNICO Y DE REDES",
+      "lower_wage": 19863,
+      "upper_wage": 19863,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4341,
+      "position": "RESPONSABLE DE ARCHIVO, NORMATIVAS CONTABLES, FISCALES Y DE TRANSPARENCIA",
+      "lower_wage": 19652,
+      "upper_wage": 19652,
+      "employee_count": 2
+    },
+    {
+      "position_id": 4051,
+      "position": "COORDINADOR DE PROGRAMAS PREVENTIVOS",
+      "lower_wage": 19587.69,
+      "upper_wage": 19587.69,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4340,
+      "position": "COORDINADOR DE EDUCACION NUTRICIONAL",
+      "lower_wage": 19467,
+      "upper_wage": 19467,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4352,
+      "position": "COORDINADOR DE ESTADISTICA S.A.R.E.",
+      "lower_wage": 18937.07,
+      "upper_wage": 18937.07,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4283,
+      "position": "COORDINADOR DE CIFA SUR",
+      "lower_wage": 18786.33,
+      "upper_wage": 18786.33,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4433,
+      "position": "COORDINADOR DE PLANEACION Y PROGRAMAS CULTURALES",
+      "lower_wage": 18760.78,
+      "upper_wage": 18760.78,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4288,
+      "position": "SUPERVISOR DE DEPARTAMENTO DE CONSERVACION",
+      "lower_wage": 18508.4,
+      "upper_wage": 18508.4,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4088,
+      "position": "COORDINADOR DE TRABAJO SOCIAL",
+      "lower_wage": 18381.2,
+      "upper_wage": 18381.2,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4067,
+      "position": "COORDINADOR DE SISTEMAS",
+      "lower_wage": 18237.62,
+      "upper_wage": 18237.62,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4071,
+      "position": "COORDINADOR DEL AREA DE REDES",
+      "lower_wage": 18237.62,
+      "upper_wage": 18237.62,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4036,
+      "position": "COORDINADOR DE LOGISTICA",
+      "lower_wage": 18188,
+      "upper_wage": 18188,
+      "employee_count": 2
+    },
+    {
+      "position_id": 4117,
+      "position": "TRABAJADOR SOCIAL",
+      "lower_wage": 13039.41,
+      "upper_wage": 23216.07,
+      "employee_count": 18
+    },
+    {
+      "position_id": 4154,
+      "position": "COORDINADOR DE DIFUSION Y PRODUCCION",
+      "lower_wage": 18014,
+      "upper_wage": 18014,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4097,
+      "position": "ENCARGADO DE CARTERA DE CREDITO",
+      "lower_wage": 18011,
+      "upper_wage": 18011,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4333,
+      "position": "COORDINADOR CULTURAL",
+      "lower_wage": 17867,
+      "upper_wage": 17867,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4145,
+      "position": "COORDINADOR DEL PLANETARIO DE CAJEME",
+      "lower_wage": 17856.65,
+      "upper_wage": 17856.65,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4024,
+      "position": "COORDINADOR DE CONTROL DE ESTIMACIONES Y CONTRATOS",
+      "lower_wage": 17749,
+      "upper_wage": 17749,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4158,
+      "position": "COORDINADOR DE OPINION PUBLICA",
+      "lower_wage": 17663,
+      "upper_wage": 17663,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4055,
+      "position": "COORDINADOR DE RECLUTAMIENTO MILITAR",
+      "lower_wage": 17422.97,
+      "upper_wage": 17422.97,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4084,
+      "position": "COORDINADOR DE INAPAM",
+      "lower_wage": 16965.49,
+      "upper_wage": 16965.49,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4034,
+      "position": "COORDINADOR DE LABORATORIO",
+      "lower_wage": 16522,
+      "upper_wage": 16522,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4350,
+      "position": "SUPERVISOR DE FRACCIONAMIENTO",
+      "lower_wage": 16522,
+      "upper_wage": 16522,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4248,
+      "position": "COORDINADOR DEL PROGRAMA CRECIENDO SANO",
+      "lower_wage": 16442.04,
+      "upper_wage": 16442.04,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4041,
+      "position": "COORDINADOR DE MULTAS FISCALES",
+      "lower_wage": 16319.92,
+      "upper_wage": 16319.92,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4297,
+      "position": "COORDINADOR DE PANTEONES",
+      "lower_wage": 16222.5,
+      "upper_wage": 16222.5,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4304,
+      "position": "SECRETARIO DE ACUERDOS",
+      "lower_wage": 16157.61,
+      "upper_wage": 16157.61,
+      "employee_count": 5
+    },
+    {
+      "position_id": 4305,
+      "position": "DEFENSOR DE OFICIO",
+      "lower_wage": 16157.61,
+      "upper_wage": 16157.61,
+      "employee_count": 5
+    },
+    {
+      "position_id": 4115,
+      "position": "TOPOGRAFO",
+      "lower_wage": 15621.19,
+      "upper_wage": 15621.19,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4136,
+      "position": "TOPOGRAFO",
+      "lower_wage": 13039,
+      "upper_wage": 18067,
+      "employee_count": 3
+    },
+    {
+      "position_id": 4355,
+      "position": "JEFEDE AREA TÉCNICA",
+      "lower_wage": 15427.29,
+      "upper_wage": 15427.29,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4354,
+      "position": "JEFE DE ATENCIÓN A EMERGENCIAS",
+      "lower_wage": 15427.29,
+      "upper_wage": 15427.29,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4318,
+      "position": "INSPECTOR Y NOTIFICADOR",
+      "lower_wage": 15427,
+      "upper_wage": 15427,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4076,
+      "position": "COORDINADOR FISCAL",
+      "lower_wage": 14314.29,
+      "upper_wage": 14314.29,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4299,
+      "position": "COORDINADOR DEL REFUGIO",
+      "lower_wage": 14214,
+      "upper_wage": 14214,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4274,
+      "position": "ACTUARIO",
+      "lower_wage": 14063.83,
+      "upper_wage": 14063.83,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4308,
+      "position": "MEDIADOR",
+      "lower_wage": 14063.83,
+      "upper_wage": 14063.83,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4306,
+      "position": "OFICIAL DE PARTES",
+      "lower_wage": 13039.41,
+      "upper_wage": 13039.41,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4345,
+      "position": "COORDINADOR DE ASUNTOS RELIGIOSOS",
+      "lower_wage": 13039.41,
+      "upper_wage": 13039.41,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4353,
+      "position": "JEFE DE INSPECCIONES",
+      "lower_wage": 13039.41,
+      "upper_wage": 13039.41,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4147,
+      "position": "COORDINADOR CAPACITACION SEGURIDAD PUBLICA",
+      "lower_wage": 13039.41,
+      "upper_wage": 13039.41,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4046,
+      "position": "ENFERMERA",
+      "lower_wage": 13039,
+      "upper_wage": 13039,
+      "employee_count": 1
+    },
+    {
+      "position_id": 4232,
+      "position": "ENLACE CON INSTITUCIONES",
+      "lower_wage": 12699.33,
+      "upper_wage": 12699.33,
+      "employee_count": 1
+    }
+  ],
+  "3000 : ENCARGADOS Y COORDINADORES ADMINISTRATIVOS": [
+    {
+      "position_id": 3309,
+      "position": "COORDINADOR DE VENTANILLA",
+      "lower_wage": 29979,
+      "upper_wage": 29979,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3286,
+      "position": "COORDINADOR ADMINISTRATIVO",
+      "lower_wage": 29797,
+      "upper_wage": 29797,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3167,
+      "position": "TECNICO EMBALSAMADOR",
+      "lower_wage": 27102.66,
+      "upper_wage": 27102.66,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3292,
+      "position": "COORDINADOR DE SERVICIOS PUBLICOS",
+      "lower_wage": 25000,
+      "upper_wage": 25000,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3019,
+      "position": "ASISTENTE DEL DIRECTOR",
+      "lower_wage": 24582,
+      "upper_wage": 24582,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3213,
+      "position": "ENCARGADO DEL CENTRO DE APERTURA RAPIDA DE EMPRESAS",
+      "lower_wage": 24284.55,
+      "upper_wage": 24284.55,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3221,
+      "position": "ENCARGADO DE DESARROLLO Y PROCESOS",
+      "lower_wage": 23912.54,
+      "upper_wage": 23912.54,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3328,
+      "position": "COORDINADOR DE APOYO SOLIDARIO",
+      "lower_wage": 23612.3,
+      "upper_wage": 23612.3,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3240,
+      "position": "DENUNCIAS, GESTIONES Y EVENTOS",
+      "lower_wage": 22661.79,
+      "upper_wage": 22661.79,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3185,
+      "position": "ENCARGADO ADMINISTRATIVO Y DE CONTROL PRESUPUESTAL",
+      "lower_wage": 21792,
+      "upper_wage": 21792,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3010,
+      "position": "ANALISTA DE SISTEMAS",
+      "lower_wage": 20617,
+      "upper_wage": 22750,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3204,
+      "position": "ENCARGADO DE ARCHIVO",
+      "lower_wage": 21459,
+      "upper_wage": 21459,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3280,
+      "position": "ASISTENTE EJECUTIVA",
+      "lower_wage": 21453,
+      "upper_wage": 21453,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3004,
+      "position": "ANALISTA DE COSTOS Y PRESUPUESTOS",
+      "lower_wage": 17594.14,
+      "upper_wage": 24849.89,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3298,
+      "position": "COORDINADOR OPERATIVO",
+      "lower_wage": 19863.91,
+      "upper_wage": 22532.69,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3289,
+      "position": "COORDINADOR DE INSPECTORES",
+      "lower_wage": 21053,
+      "upper_wage": 21053,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3021,
+      "position": "ASISTENTE DEL SECRETARIO",
+      "lower_wage": 21021.23,
+      "upper_wage": 21021.23,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3297,
+      "position": "COORDINADOR TÉCNICO",
+      "lower_wage": 20881,
+      "upper_wage": 20881,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3056,
+      "position": "AUXILIAR DE NOMINA",
+      "lower_wage": 15908,
+      "upper_wage": 25750,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3212,
+      "position": "COORDINADOR DE CONTROL DE COMBUSTIBLE",
+      "lower_wage": 17155.83,
+      "upper_wage": 24445.14,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3009,
+      "position": "ANALISTA DE SISTEMA DE INFORMACIÓN",
+      "lower_wage": 20739.64,
+      "upper_wage": 20739.64,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3262,
+      "position": "AUXILIAR DE GASTO PUBLICO",
+      "lower_wage": 20731.85,
+      "upper_wage": 20731.85,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3291,
+      "position": "JEFE DE RECOLECCION DE BASURA",
+      "lower_wage": 20439.13,
+      "upper_wage": 20439.13,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3133,
+      "position": "SUPERVISOR DE TALLERES EXTERNOS",
+      "lower_wage": 20244.6,
+      "upper_wage": 20244.6,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3316,
+      "position": "SUPERVISOR DE BIENES DE SEGURIDAD PUBLICA",
+      "lower_wage": 19757.98,
+      "upper_wage": 19757.98,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3129,
+      "position": "SUPERVISOR DE REPARTO DE AGUA",
+      "lower_wage": 19698.37,
+      "upper_wage": 19698.37,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3190,
+      "position": "POLICIA PRIMERO",
+      "lower_wage": 18266.33,
+      "upper_wage": 21008.3,
+      "employee_count": 27
+    },
+    {
+      "position_id": 3293,
+      "position": "COORDINADOR DE PARQUES Y JARDINES",
+      "lower_wage": 19558.75,
+      "upper_wage": 19558.75,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3177,
+      "position": "JEFE DE ALMACEN DE HERRAMIENTA Y TALLER DE MINEIQUIPOS",
+      "lower_wage": 19442.13,
+      "upper_wage": 19442.13,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3146,
+      "position": "ANALISTA EN REDES Y COMUNICACIONES",
+      "lower_wage": 19387.9,
+      "upper_wage": 19387.9,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3008,
+      "position": "ANALISTA DE PROYECTOS",
+      "lower_wage": 13730.98,
+      "upper_wage": 24027.44,
+      "employee_count": 5
+    },
+    {
+      "position_id": 3324,
+      "position": "COORDINADOR OPERATIVO Y ADMINISTRATIVO",
+      "lower_wage": 18588.41,
+      "upper_wage": 18588.41,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3067,
+      "position": "AUXILIAR DE RECURSOS HUMANOS",
+      "lower_wage": 11285,
+      "upper_wage": 25729,
+      "employee_count": 4
+    },
+    {
+      "position_id": 3037,
+      "position": "AUXILIAR DE CONTADOR DE CONCILIACIONES CON SUBSISTEMAS",
+      "lower_wage": 18381,
+      "upper_wage": 18381.2,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3317,
+      "position": "ENCARGADO DE SEGUIMIENTO DE AUDITORIAS",
+      "lower_wage": 18253,
+      "upper_wage": 18253,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3091,
+      "position": "ENCARGADO DE SINTESIS",
+      "lower_wage": 17853,
+      "upper_wage": 17853,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3319,
+      "position": "COORDINADOR DE ASUNTOS INDÍGENAS",
+      "lower_wage": 17823,
+      "upper_wage": 17823,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3098,
+      "position": "ENCARGADO DE CONTROL PRESUPUESTAL",
+      "lower_wage": 17792.54,
+      "upper_wage": 17792.54,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3174,
+      "position": "SUPERVISOR DE COMBUSTIBLE",
+      "lower_wage": 17526.79,
+      "upper_wage": 17808,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3100,
+      "position": "ENCARGADO DE MERCADEO E INVESTIGACION DE VALORES",
+      "lower_wage": 17620.76,
+      "upper_wage": 17620.76,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3308,
+      "position": "COORDINADOR DE PROMOTORES",
+      "lower_wage": 17585,
+      "upper_wage": 17602,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3106,
+      "position": "SUPERVISOR DIESEL",
+      "lower_wage": 15691.07,
+      "upper_wage": 19178.1,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3327,
+      "position": "COORDINADOR DE IMAGEN INSTITUCIONAL",
+      "lower_wage": 17434.03,
+      "upper_wage": 17434.03,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3302,
+      "position": "COORDINADOR DE EVENTOS",
+      "lower_wage": 17434.03,
+      "upper_wage": 17434.03,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3222,
+      "position": "ENCARGADO DE CONSERVACION",
+      "lower_wage": 17434.03,
+      "upper_wage": 17434.03,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3284,
+      "position": "TECNICO DE PROYECTOS",
+      "lower_wage": 17411,
+      "upper_wage": 17411,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3290,
+      "position": "COORDINADOR DE INSPECTORES",
+      "lower_wage": 17304,
+      "upper_wage": 17304,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3080,
+      "position": "CAMAROGRAFO",
+      "lower_wage": 17103,
+      "upper_wage": 17103,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3287,
+      "position": "COORDINADOR DE DEPORTE POPULAR",
+      "lower_wage": 16934.3,
+      "upper_wage": 16934.3,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3295,
+      "position": "COORDINADOR DE SUPERVISIÓN DE ESCUELAS",
+      "lower_wage": 16926.5,
+      "upper_wage": 16926.5,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3007,
+      "position": "ANALISTA DE PROGRAMACIÓN Y PRESUPUESTO",
+      "lower_wage": 16922.9,
+      "upper_wage": 16922.9,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3095,
+      "position": "ENCARGADO DE ARCHIVO DE MULTAS DE TRANSITO",
+      "lower_wage": 16812.98,
+      "upper_wage": 16812.98,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3330,
+      "position": "CALIERO GENERAL",
+      "lower_wage": 16695,
+      "upper_wage": 16695,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3315,
+      "position": "COORDINADOR DE MULTAS DE TRANSITO",
+      "lower_wage": 16695,
+      "upper_wage": 16695,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3325,
+      "position": "COORDINADOR DE FOMENTO DEPORTIVO Y CULTURAL",
+      "lower_wage": 16672.88,
+      "upper_wage": 16672.88,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3127,
+      "position": "SUPERVISOR DE PARQUES Y JARDINES",
+      "lower_wage": 15369.37,
+      "upper_wage": 17874.78,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3288,
+      "position": "COORDINADOR DE INSPECCION",
+      "lower_wage": 16576,
+      "upper_wage": 16576,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3294,
+      "position": "COORDINADOR DE SONORIZACION",
+      "lower_wage": 16361.1,
+      "upper_wage": 16361.1,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3301,
+      "position": "TECNICO EN FOTOGRAFIA Y VIDEO",
+      "lower_wage": 13676.98,
+      "upper_wage": 18983.33,
+      "employee_count": 4
+    },
+    {
+      "position_id": 3318,
+      "position": "COORDINADOR DE LOGISTICA DE EVENTOS Y BIBLIOTECAS RODANTES",
+      "lower_wage": 15978.23,
+      "upper_wage": 15978.23,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3303,
+      "position": "COORDINADOR DE ATENCION CIUDADANA",
+      "lower_wage": 15967.1,
+      "upper_wage": 15967.1,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3189,
+      "position": "POLICIA SEGUNDO",
+      "lower_wage": 15913.54,
+      "upper_wage": 15913.54,
+      "employee_count": 76
+    },
+    {
+      "position_id": 3244,
+      "position": "ANALISTA DE COSTOS Y PROYECTOS",
+      "lower_wage": 15726,
+      "upper_wage": 15726,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3107,
+      "position": "JEFE DE TALLER",
+      "lower_wage": 15691.07,
+      "upper_wage": 15691.07,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3300,
+      "position": "SUPERVISOR DE OBRA",
+      "lower_wage": 11285,
+      "upper_wage": 20034,
+      "employee_count": 11
+    },
+    {
+      "position_id": 3015,
+      "position": "ASESOR PEDAGOGICO",
+      "lower_wage": 13914.19,
+      "upper_wage": 17334.98,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3038,
+      "position": "AUXILIAR DE CONTADOR DE REGISTRO",
+      "lower_wage": 14023.8,
+      "upper_wage": 17078.99,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3144,
+      "position": "ENCARGADO DE MANTENIMIENTO",
+      "lower_wage": 15534.14,
+      "upper_wage": 15534.14,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3220,
+      "position": "TECNICO CATASTRAL ADMINISTRATIVO",
+      "lower_wage": 13493.8,
+      "upper_wage": 17434.03,
+      "employee_count": 5
+    },
+    {
+      "position_id": 3143,
+      "position": "ENCARGADO DE INTENDENCIA",
+      "lower_wage": 15145.18,
+      "upper_wage": 15145.18,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3176,
+      "position": "SUPERVISOR DE PODA DE ARBOLES",
+      "lower_wage": 15114.17,
+      "upper_wage": 15114.17,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3238,
+      "position": "ENCARGADO DE ARCHIVO DOCUMENTAL",
+      "lower_wage": 11285.59,
+      "upper_wage": 18698.4,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3050,
+      "position": "AUXILIAR DE EVENTOS ESPECIALES",
+      "lower_wage": 11881,
+      "upper_wage": 18092,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3233,
+      "position": "AUXILIAR DEL PROCEDIMIENTO DE EJECUCION",
+      "lower_wage": 14953.16,
+      "upper_wage": 14953.16,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3188,
+      "position": "POLICIA TERCERO",
+      "lower_wage": 13838.58,
+      "upper_wage": 15986.88,
+      "employee_count": 167
+    },
+    {
+      "position_id": 3306,
+      "position": "MAESTRO DE CEREMONIAS",
+      "lower_wage": 14814.03,
+      "upper_wage": 14814.03,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3274,
+      "position": "ENCARGADO DE ARCHIVO HISTORICO",
+      "lower_wage": 14620.37,
+      "upper_wage": 14620.37,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3277,
+      "position": "TECNICO OPERADOR DE PLANTA",
+      "lower_wage": 14590.52,
+      "upper_wage": 14590.52,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3299,
+      "position": "RECAUDADOR ENCARGADO FORANEO",
+      "lower_wage": 14504,
+      "upper_wage": 14504,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3002,
+      "position": "ANALISTA",
+      "lower_wage": 14488.96,
+      "upper_wage": 14488.86,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3321,
+      "position": "COORDINADOR ADMINISTRATIVO Y OPERACION INTERNA",
+      "lower_wage": 14406,
+      "upper_wage": 14406,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3307,
+      "position": "ASISTENTE PARTICULAR",
+      "lower_wage": 14360.36,
+      "upper_wage": 14360.36,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3138,
+      "position": "TECNICO DE SOPORTE Y REDES",
+      "lower_wage": 13644.2,
+      "upper_wage": 15029.95,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3135,
+      "position": "TECNICO DE AUDIO",
+      "lower_wage": 14310,
+      "upper_wage": 14310,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3085,
+      "position": "COTIZADOR",
+      "lower_wage": 14098.37,
+      "upper_wage": 14251.31,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3276,
+      "position": "TECNICO LABORATORISTA",
+      "lower_wage": 14059.5,
+      "upper_wage": 14059.5,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3110,
+      "position": "POLICÍA",
+      "lower_wage": 12013.31,
+      "upper_wage": 15977.06,
+      "employee_count": 435
+    },
+    {
+      "position_id": 3076,
+      "position": "AUXILIAR PROGRAMAS PREVENTIVOS",
+      "lower_wage": 12528.66,
+      "upper_wage": 15427.29,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3198,
+      "position": "AUXILIAR DE CONCILIACIONES BANCARIAS",
+      "lower_wage": 12370.09,
+      "upper_wage": 15490.73,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3139,
+      "position": "TECNICO EN SONORIZACION",
+      "lower_wage": 13528,
+      "upper_wage": 14205,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3310,
+      "position": "COORDINADOR DE PROGRAMA LAVA CARROS",
+      "lower_wage": 13788.96,
+      "upper_wage": 13788.96,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3323,
+      "position": "SUPERVISOR DE ESTUDIOS Y PROYECTOS",
+      "lower_wage": 13788.96,
+      "upper_wage": 13788.96,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3042,
+      "position": "AUXILIAR DE CONTROL Y ARCHIVO DE INGRESOS",
+      "lower_wage": 13498.46,
+      "upper_wage": 13498.46,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3023,
+      "position": "ASISTENTE TECNICO DE LA COORDINACION DE INSPECCION",
+      "lower_wage": 13396.07,
+      "upper_wage": 13396.07,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3147,
+      "position": "REPORTERO",
+      "lower_wage": 11881,
+      "upper_wage": 14891,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3072,
+      "position": "AUXILIAR DE TRABAJO SOCIAL",
+      "lower_wage": 12855.59,
+      "upper_wage": 13778.23,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3241,
+      "position": "AUXILIAR DE FRACCIONAMIENTO",
+      "lower_wage": 13207,
+      "upper_wage": 13207,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3237,
+      "position": "ANALISTA DE SISTEMAS CARTOGRAFICOS",
+      "lower_wage": 11285.59,
+      "upper_wage": 15046.91,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3053,
+      "position": "ENTRENADOR FISICO",
+      "lower_wage": 12855.19,
+      "upper_wage": 13291.5,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3304,
+      "position": "COORDINADOR GENERAL DE REPARTO DE AGUA",
+      "lower_wage": 12978,
+      "upper_wage": 12978,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3096,
+      "position": "ENCARGADO DE CERTIFICADO DE VALOR CATASTRAL",
+      "lower_wage": 12932,
+      "upper_wage": 12932,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3229,
+      "position": "AUXILIAR DE LICENCIAS DE CONSTRUCCION",
+      "lower_wage": 12857,
+      "upper_wage": 12857,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3088,
+      "position": "EDUCADORA",
+      "lower_wage": 11398.26,
+      "upper_wage": 13798.96,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3885,
+      "position": "TECNICO INFORMATICO",
+      "lower_wage": 11285.59,
+      "upper_wage": 13788.96,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3326,
+      "position": "ANALISTA PROGRAMADOR",
+      "lower_wage": 12510,
+      "upper_wage": 12520,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3279,
+      "position": "VETERINARIO",
+      "lower_wage": 12490,
+      "upper_wage": 12490,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3329,
+      "position": "COORDINADOR DE PROYECTOS",
+      "lower_wage": 12210.72,
+      "upper_wage": 12210.72,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3322,
+      "position": "SUPERVISOR DE MANTENIMIENTO Y PINTURA VIAL",
+      "lower_wage": 12077.16,
+      "upper_wage": 12077.16,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3311,
+      "position": "COORDINADOR DE PREPARATORIA ABIERTA",
+      "lower_wage": 11871.26,
+      "upper_wage": 11871.26,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3123,
+      "position": "SOBRESTANTE",
+      "lower_wage": 11285.59,
+      "upper_wage": 12047.11,
+      "employee_count": 3
+    },
+    {
+      "position_id": 3041,
+      "position": "AUXILIAR DE CONTROL Y ARCHIVO DE EGRESOS",
+      "lower_wage": 11657.56,
+      "upper_wage": 11657.56,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3236,
+      "position": "ANALISTA DE BASE DE DATOS ALFAANUMERICA",
+      "lower_wage": 11285.59,
+      "upper_wage": 11825.63,
+      "employee_count": 4
+    },
+    {
+      "position_id": 3043,
+      "position": "AUXILIAR DE CONTROL Y REGISTRO DE INGRESOS FORANEOS",
+      "lower_wage": 11298.9,
+      "upper_wage": 11298.9,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3179,
+      "position": "ENCARGADO DE SEGUIMIENTO",
+      "lower_wage": 11286,
+      "upper_wage": 11286,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3086,
+      "position": "CRONISTA DE LA CIUDAD",
+      "lower_wage": 11286,
+      "upper_wage": 11286,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3108,
+      "position": "MONITOR DE MEDIOS",
+      "lower_wage": 11286,
+      "upper_wage": 11286,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3026,
+      "position": "AUXILIAR DE ASESORIA JURIDICA",
+      "lower_wage": 11285.59,
+      "upper_wage": 11285.59,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3273,
+      "position": "ENCARGADO DE ARCHIVO DE CONCENTRACION",
+      "lower_wage": 11285.59,
+      "upper_wage": 11285.59,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3239,
+      "position": "ENCARGADO DE ESCANEO",
+      "lower_wage": 11285.59,
+      "upper_wage": 11285.59,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3183,
+      "position": "TECNICO EN RADIO",
+      "lower_wage": 11285.59,
+      "upper_wage": 11285.59,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3181,
+      "position": "ENCARGADO DEL PARQUE ACUATICO",
+      "lower_wage": 11285.59,
+      "upper_wage": 11285.59,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3305,
+      "position": "ENCARGADO DE VIVEROS",
+      "lower_wage": 11285,
+      "upper_wage": 11285,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3103,
+      "position": "INSTRUCTOR",
+      "lower_wage": 8364,
+      "upper_wage": 11783,
+      "employee_count": 2
+    },
+    {
+      "position_id": 3175,
+      "position": "SUPERVISOR DE CARRETOS MANUALES",
+      "lower_wage": 8827.34,
+      "upper_wage": 8827.34,
+      "employee_count": 1
+    },
+    {
+      "position_id": 3071,
+      "position": "DISEÑADOR",
+      "lower_wage": 8546,
+      "upper_wage": 8546,
+      "employee_count": 1
+    }
+  ],
+  "6000 : OBRA, PROTECCIÓN CIVIL Y EMPLEADOS PÚBLICOS": [
+    {
+      "position_id": 6019,
+      "position": "COORDINADOR MUNICIPAL DE PROTECCIÓN CIVIL",
+      "lower_wage": 29288.1,
+      "upper_wage": 29288.1,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6077,
+      "position": "SUBDIRECTOR DE IMPULSO A LAS MPYMES Y TURISMO",
+      "lower_wage": 27689.64,
+      "upper_wage": 27689.64,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6070,
+      "position": "SUBPROCURADOR DE LA DEFENSA DEL ADULTO MAYOR",
+      "lower_wage": 27023.44,
+      "upper_wage": 27023.44,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6009,
+      "position": "SUBDIRECTOR DE COSTOS Y PROYECTOS",
+      "lower_wage": 26785,
+      "upper_wage": 26785,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6034,
+      "position": "SUBDIRECTOR DEL DIF",
+      "lower_wage": 26774.7,
+      "upper_wage": 26774.7,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6001,
+      "position": "SUBDIRECTOR ADMINISTRATIVO",
+      "lower_wage": 26289.1,
+      "upper_wage": 26289.1,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6052,
+      "position": "SUBDIRECTOR DE LA UNIDAD ESPECIALIZADA EN ATENCION DE MENORES",
+      "lower_wage": 26289.1,
+      "upper_wage": 26289.1,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6061,
+      "position": "SUBDIRECTOR DE ASESORIA JURIDICA",
+      "lower_wage": 26289.1,
+      "upper_wage": 26289.1,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6043,
+      "position": "COORDINADOR DE INFORMATICA DE SEGURIDAD PUBLICA",
+      "lower_wage": 25284.39,
+      "upper_wage": 25284.39,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6018,
+      "position": "SUBDIRECTOR DE PROGRAMAS DE PREVENCION DEL DELITO",
+      "lower_wage": 24445.14,
+      "upper_wage": 24445.14,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6021,
+      "position": "SUBDIRECTOR DE RECURSOS HUMANOS",
+      "lower_wage": 24445.14,
+      "upper_wage": 24445.14,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6059,
+      "position": "SUBDIRECTOR DE ACUACULTURA Y PESCA",
+      "lower_wage": 24445.14,
+      "upper_wage": 24445.14,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6069,
+      "position": "SUBDIRECTOR DE FOMENTO AGROPECUARIO Y DESARROLLO RURAL",
+      "lower_wage": 24445.14,
+      "upper_wage": 24445.14,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6075,
+      "position": "SUBDIRECTOR DE VALORES CIVICOS",
+      "lower_wage": 24445,
+      "upper_wage": 24445,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6007,
+      "position": "SUBDIRECTOR DE COMPRAS",
+      "lower_wage": 24445,
+      "upper_wage": 24445,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6014,
+      "position": "SUBDIRECTOR DE EJECUCION FISCAL",
+      "lower_wage": 24445,
+      "upper_wage": 24445,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6068,
+      "position": "SUBDIRECTOR DE GASTO PUBLICO",
+      "lower_wage": 24445,
+      "upper_wage": 24445,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6027,
+      "position": "SUBDIRECTOR DE SUPERVISION Y CONTROL DE OBRAS",
+      "lower_wage": 24445,
+      "upper_wage": 24445,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6051,
+      "position": "SUBDIRECTOR DE CONTRATOS Y LICITACIONES",
+      "lower_wage": 24445,
+      "upper_wage": 24445,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6056,
+      "position": "SUBDIRECTOR TECNICO",
+      "lower_wage": 24445,
+      "upper_wage": 24445,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6054,
+      "position": "SUBDIRECTOR DE DESARROLLO COMUNITARIO",
+      "lower_wage": 24445,
+      "upper_wage": 24445,
+      "employee_count": 1
+    },
+    {
+      "position_id": 6066,
+      "position": "SUBDIRECTOR DE ASUNTOS INDÍGENAS",
+      "lower_wage": 24445,
+      "upper_wage": 24445,
+      "employee_count": 1
+    }
+  ],
+  "2000 : SUPERVISORES, AUXILIARES Y CAJEROS": [
+    {
+      "position_id": 2117,
+      "position": "AUXILIAR ADMINISTRATIVO",
+      "lower_wage": 9200.58,
+      "upper_wage": 37896.23,
+      "employee_count": 5
+    },
+    {
+      "position_id": 2094,
+      "position": "CAJERO ESPECIAL PAGOS INTERNET Y DOMICLIZACIÓN",
+      "lower_wage": 18925.45,
+      "upper_wage": 18925.45,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2130,
+      "position": "CAJERO PAGADOR",
+      "lower_wage": 18646,
+      "upper_wage": 18646,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2119,
+      "position": "AUXILIAR DE REQUERIMIENTOS DE TRANSITO",
+      "lower_wage": 16848,
+      "upper_wage": 18375,
+      "employee_count": 2
+    },
+    {
+      "position_id": 2106,
+      "position": "AUXILIAR DE LICITACIONES Y CONTRATOS",
+      "lower_wage": 16322,
+      "upper_wage": 16322,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2134,
+      "position": "SUPERVISOR DE MANTENIMIENTO LAGUNA NAIRNARI",
+      "lower_wage": 12848.47,
+      "upper_wage": 18914.35,
+      "employee_count": 2
+    },
+    {
+      "position_id": 2032,
+      "position": "ENCARGADO DE ACEITES",
+      "lower_wage": 13306.86,
+      "upper_wage": 18253.2,
+      "employee_count": 2
+    },
+    {
+      "position_id": 2027,
+      "position": "CHOFER RECOLECTOR",
+      "lower_wage": 9200.58,
+      "upper_wage": 20926.63,
+      "employee_count": 30
+    },
+    {
+      "position_id": 2118,
+      "position": "CAPTURISTA DE MULTAS DE TRANSITO",
+      "lower_wage": 10500,
+      "upper_wage": 19096,
+      "employee_count": 2
+    },
+    {
+      "position_id": 2070,
+      "position": "SECRETARIA",
+      "lower_wage": 14520.37,
+      "upper_wage": 14520.37,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2112,
+      "position": "OPERADOR DE CALL CENTER",
+      "lower_wage": 13891.87,
+      "upper_wage": 14826.42,
+      "employee_count": 3
+    },
+    {
+      "position_id": 2069,
+      "position": "RECEPCIONISTA",
+      "lower_wage": 14172,
+      "upper_wage": 14172,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2131,
+      "position": "JEFE DE CUADRILLA",
+      "lower_wage": 9200.58,
+      "upper_wage": 18972.2,
+      "employee_count": 13
+    },
+    {
+      "position_id": 2137,
+      "position": "VERIFICADOR AMBIENTAL",
+      "lower_wage": 13047,
+      "upper_wage": 14997,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2140,
+      "position": "AUXILIAR DE COMPRAS",
+      "lower_wage": 13725,
+      "upper_wage": 13725,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2113,
+      "position": "AUXILIAR DE ALMACÉN",
+      "lower_wage": 10966.58,
+      "upper_wage": 16319.92,
+      "employee_count": 2
+    },
+    {
+      "position_id": 2114,
+      "position": "AUXILIAR DE ARCHIVO",
+      "lower_wage": 13633,
+      "upper_wage": 13633,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2088,
+      "position": "AUXILIAR TECNICO",
+      "lower_wage": 10927.3,
+      "upper_wage": 15847.27,
+      "employee_count": 2
+    },
+    {
+      "position_id": 2109,
+      "position": "ENCARGADO DE AREA",
+      "lower_wage": 13195.49,
+      "upper_wage": 13135.49,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2116,
+      "position": "PROMOTOR",
+      "lower_wage": 11830.08,
+      "upper_wage": 14097.52,
+      "employee_count": 6
+    },
+    {
+      "position_id": 2087,
+      "position": "AUXILIAR DE LOGISTICA",
+      "lower_wage": 11298.43,
+      "upper_wage": 14310.95,
+      "employee_count": 5
+    },
+    {
+      "position_id": 2003,
+      "position": "AUXILIAR DE COMBUSTIBLE",
+      "lower_wage": 12685.97,
+      "upper_wage": 12685.97,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2126,
+      "position": "PROMOTOR",
+      "lower_wage": 9201,
+      "upper_wage": 16166,
+      "employee_count": 33
+    },
+    {
+      "position_id": 2132,
+      "position": "PROMOTOR DEPORTIVO",
+      "lower_wage": 9200.58,
+      "upper_wage": 15715.56,
+      "employee_count": 14
+    },
+    {
+      "position_id": 2123,
+      "position": "TECNICO EN PULIDO DE PISOS",
+      "lower_wage": 12454.94,
+      "upper_wage": 12454.94,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2136,
+      "position": "INSPECTOR DE PARQUES Y JARDINES",
+      "lower_wage": 12374.52,
+      "upper_wage": 12374.52,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2085,
+      "position": "AUXILIAR DE TOPOGRAFIA",
+      "lower_wage": 9723,
+      "upper_wage": 14967.62,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2076,
+      "position": "SOLDADOR",
+      "lower_wage": 10026.33,
+      "upper_wage": 13788.96,
+      "employee_count": 4
+    },
+    {
+      "position_id": 2006,
+      "position": "AUXILIAR DE COCINA",
+      "lower_wage": 11491.36,
+      "upper_wage": 11491.36,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2120,
+      "position": "AUXILIAR DE VENTANILLA",
+      "lower_wage": 11300,
+      "upper_wage": 11300,
+      "employee_count": 2
+    },
+    {
+      "position_id": 2601,
+      "position": "ASISTENTE DE NINOS",
+      "lower_wage": 10815,
+      "upper_wage": 11686.5,
+      "employee_count": 3
+    },
+    {
+      "position_id": 2002,
+      "position": "ASISTENTE EDUCATIVO",
+      "lower_wage": 9200.58,
+      "upper_wage": 13268.07,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2045,
+      "position": "MECANICO DE BARREDORAS",
+      "lower_wage": 11089.07,
+      "upper_wage": 11089.07,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2122,
+      "position": "AUXILIAR DE IMPUESTO PREDIAL",
+      "lower_wage": 9200,
+      "upper_wage": 12810,
+      "employee_count": 5
+    },
+    {
+      "position_id": 2089,
+      "position": "ASISTENTE DE ADULTOS MAYORES",
+      "lower_wage": 9200.58,
+      "upper_wage": 12520.14,
+      "employee_count": 7
+    },
+    {
+      "position_id": 2105,
+      "position": "AUXILIAR DE TERAPIA FISICA",
+      "lower_wage": 10157.45,
+      "upper_wage": 11515.1,
+      "employee_count": 4
+    },
+    {
+      "position_id": 2023,
+      "position": "CHOFER DE PAPELERA",
+      "lower_wage": 9200.58,
+      "upper_wage": 12279.73,
+      "employee_count": 4
+    },
+    {
+      "position_id": 2043,
+      "position": "MAESTRA DE CANTOS Y JUEGOS",
+      "lower_wage": 9200.58,
+      "upper_wage": 12047.11,
+      "employee_count": 3
+    },
+    {
+      "position_id": 2127,
+      "position": "TECNICO EN ATENCION ANIMAL",
+      "lower_wage": 10429,
+      "upper_wage": 10429,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2034,
+      "position": "ENCARGADO DE MÓDULO DE INFORMACIÓN",
+      "lower_wage": 10428.97,
+      "upper_wage": 10428.97,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2092,
+      "position": "ENCARGADO DE BODEGA",
+      "lower_wage": 10304.27,
+      "upper_wage": 10304.27,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2139,
+      "position": "VERIFICADOR AMBIENTAL Y NOTIFICADOR",
+      "lower_wage": 10172,
+      "upper_wage": 10172,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2022,
+      "position": "CHOFER DE GRUA",
+      "lower_wage": 10162.43,
+      "upper_wage": 10162.43,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2104,
+      "position": "AUXILIAR DE ENFERMERIA",
+      "lower_wage": 9200.58,
+      "upper_wage": 10963.14,
+      "employee_count": 6
+    },
+    {
+      "position_id": 2016,
+      "position": "CHOFER",
+      "lower_wage": 10160.69,
+      "upper_wage": 9706.05,
+      "employee_count": 5
+    },
+    {
+      "position_id": 2014,
+      "position": "CAJERO DE ESTACIONAMIENTO",
+      "lower_wage": 9931.06,
+      "upper_wage": 9931.06,
+      "employee_count": 9
+    },
+    {
+      "position_id": 2015,
+      "position": "CAJERO FORANEO",
+      "lower_wage": 9200.58,
+      "upper_wage": 10350.83,
+      "employee_count": 7
+    },
+    {
+      "position_id": 2020,
+      "position": "CHOFER DE DOMPE",
+      "lower_wage": 9200.58,
+      "upper_wage": 10141.97,
+      "employee_count": 14
+    },
+    {
+      "position_id": 2025,
+      "position": "CHOFER DE PIPA",
+      "lower_wage": 9200.58,
+      "upper_wage": 10035.97,
+      "employee_count": 23
+    },
+    {
+      "position_id": 2019,
+      "position": "CHOFER DE CARROZA",
+      "lower_wage": 9572.65,
+      "upper_wage": 9572.65,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2028,
+      "position": "COCINERO",
+      "lower_wage": 9200.58,
+      "upper_wage": 9759.79,
+      "employee_count": 15
+    },
+    {
+      "position_id": 2061,
+      "position": "OPERADOR DE PAYLOADER",
+      "lower_wage": 9410.46,
+      "upper_wage": 9410.46,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2066,
+      "position": "OPERADOR DE VIBROCOMPACTADOR",
+      "lower_wage": 9321.68,
+      "upper_wage": 9321.68,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2091,
+      "position": "TECNICO Y ALMACENISTA",
+      "lower_wage": 9320.56,
+      "upper_wage": 9320.56,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2021,
+      "position": "CHOFER DE GONDOLA",
+      "lower_wage": 9200.58,
+      "upper_wage": 9410.46,
+      "employee_count": 4
+    },
+    {
+      "position_id": 2060,
+      "position": "OPERADOR DE MOTOCONFORMADORA",
+      "lower_wage": 9200.58,
+      "upper_wage": 9410.46,
+      "employee_count": 3
+    },
+    {
+      "position_id": 2064,
+      "position": "OPERADOR DE RETROEXCAVADORA",
+      "lower_wage": 9200.58,
+      "upper_wage": 9410.46,
+      "employee_count": 3
+    },
+    {
+      "position_id": 2031,
+      "position": "ENCARGADO DE BIBLIOTECA",
+      "lower_wage": 9201,
+      "upper_wage": 9201,
+      "employee_count": 2
+    },
+    {
+      "position_id": 2013,
+      "position": "CAJERO",
+      "lower_wage": 9200.58,
+      "upper_wage": 9200.58,
+      "employee_count": 26
+    },
+    {
+      "position_id": 2030,
+      "position": "ELECTRICISTA",
+      "lower_wage": 9200.58,
+      "upper_wage": 9200.58,
+      "employee_count": 8
+    },
+    {
+      "position_id": 2048,
+      "position": "MECANICO DIESEL",
+      "lower_wage": 9200.58,
+      "upper_wage": 9200.58,
+      "employee_count": 6
+    },
+    {
+      "position_id": 2017,
+      "position": "CHOFER DE BARREDORA",
+      "lower_wage": 9200.58,
+      "upper_wage": 9200.58,
+      "employee_count": 5
+    },
+    {
+      "position_id": 2047,
+      "position": "MECANICO DE GASOLINA",
+      "lower_wage": 9200.58,
+      "upper_wage": 9200.58,
+      "employee_count": 5
+    },
+    {
+      "position_id": 2042,
+      "position": "LAVADOR",
+      "lower_wage": 9200.58,
+      "upper_wage": 9200.58,
+      "employee_count": 2
+    },
+    {
+      "position_id": 2049,
+      "position": "MECANICO ELECTRICO",
+      "lower_wage": 9200.58,
+      "upper_wage": 9200.58,
+      "employee_count": 2
+    },
+    {
+      "position_id": 2051,
+      "position": "MECANICO MAQUINARIA PESADA",
+      "lower_wage": 9200.58,
+      "upper_wage": 9200.58,
+      "employee_count": 2
+    },
+    {
+      "position_id": 2098,
+      "position": "AUXILIAR DE CONTROL URBANO",
+      "lower_wage": 9200.58,
+      "upper_wage": 9200.58,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2024,
+      "position": "CHOFER DE PETROLIZADORA",
+      "lower_wage": 9200.58,
+      "upper_wage": 9200.58,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2046,
+      "position": "MECANICO DE CEPILLOS",
+      "lower_wage": 9200.58,
+      "upper_wage": 9200.58,
+      "employee_count": 1
+    },
+    {
+      "position_id": 2018,
+      "position": "CHOFER DE CAMION",
+      "lower_wage": 8364,
+      "upper_wage": 8659.94,
+      "employee_count": 4
+    }
+  ],
+  "1000 : PERSONAL OPERATIVO Y VIGILANCIA": [
+    {
+      "position_id": 1029,
+      "position": "VELADOR",
+      "lower_wage": 8364,
+      "upper_wage": 15733.37,
+      "employee_count": 8
+    },
+    {
+      "position_id": 1031,
+      "position": "VIGILANTE",
+      "lower_wage": 8364,
+      "upper_wage": 14042.72,
+      "employee_count": 5
+    },
+    {
+      "position_id": 1009,
+      "position": "AUXILIAR DE MANTENIMIENTO",
+      "lower_wage": 10559,
+      "upper_wage": 10559,
+      "employee_count": 2
+    },
+    {
+      "position_id": 1003,
+      "position": "ALMACENISTA",
+      "lower_wage": 8364,
+      "upper_wage": 11178.68,
+      "employee_count": 11
+    },
+    {
+      "position_id": 1006,
+      "position": "AUXILIAR DE INTENDENCIA",
+      "lower_wage": 9759,
+      "upper_wage": 9759,
+      "employee_count": 1
+    },
+    {
+      "position_id": 1045,
+      "position": "RECEPCION DE VEHICULOS",
+      "lower_wage": 8644.87,
+      "upper_wage": 10428.97,
+      "employee_count": 2
+    },
+    {
+      "position_id": 1007,
+      "position": "AUXILIAR DE LIMPIA",
+      "lower_wage": 8364,
+      "upper_wage": 10669,
+      "employee_count": 69
+    },
+    {
+      "position_id": 1306,
+      "position": "AUXILIAR DE INTENDENCIA",
+      "lower_wage": 8364,
+      "upper_wage": 10230.48,
+      "employee_count": 2
+    },
+    {
+      "position_id": 1064,
+      "position": "AUXILIAR DE BACHEO",
+      "lower_wage": 8564,
+      "upper_wage": 9064,
+      "employee_count": 23
+    },
+    {
+      "position_id": 1024,
+      "position": "PODADOR DE ARBOL",
+      "lower_wage": 8364,
+      "upper_wage": 8683,
+      "employee_count": 4
+    },
+    {
+      "position_id": 1014,
+      "position": "AUXILIAR DE PIPA",
+      "lower_wage": 8364,
+      "upper_wage": 8364,
+      "employee_count": 8
+    },
+    {
+      "position_id": 1018,
+      "position": "CARROCERO",
+      "lower_wage": 8364,
+      "upper_wage": 8364,
+      "employee_count": 7
+    },
+    {
+      "position_id": 1022,
+      "position": "PANTEONERO",
+      "lower_wage": 8364,
+      "upper_wage": 8364,
+      "employee_count": 6
+    },
+    {
+      "position_id": 1020,
+      "position": "JARDINERO",
+      "lower_wage": 8364,
+      "upper_wage": 8364,
+      "employee_count": 2
+    },
+    {
+      "position_id": 1037,
+      "position": "AUXILIAR DE CUADRILLA ESPECIAL",
+      "lower_wage": 8364,
+      "upper_wage": 8364,
+      "employee_count": 2
+    },
+    {
+      "position_id": 1021,
+      "position": "LUBRICADOR",
+      "lower_wage": 8364,
+      "upper_wage": 8364,
+      "employee_count": 1
+    },
+    {
+      "position_id": 1026,
+      "position": "PORTERO",
+      "lower_wage": 8364,
+      "upper_wage": 8364,
+      "employee_count": 1
+    },
+    {
+      "position_id": 1033,
+      "position": "VULCANIZADOR",
+      "lower_wage": 8364,
+      "upper_wage": 4992.33,
+      "employee_count": 2
+    }
+  ]
+}
